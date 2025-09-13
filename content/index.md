@@ -1,6 +1,27 @@
 ---
-title: Welcome to Quartz
+title: welcome 
+description: 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+use the searchbar or the explorer index to the left to navigate notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
