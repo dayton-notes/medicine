@@ -9,9 +9,11 @@
 	- PIV: 10meq/hr
 	- Central line: 20meq / hr
 
+** use potassium acetate in presence of concomitant hyperchloremia
+
 #### Magnesium repletion:
 
 - 1g IV raises Mg .1
 
 #### Sodium Repletion
-
+- 

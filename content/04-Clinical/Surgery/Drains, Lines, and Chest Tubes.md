@@ -42,6 +42,18 @@ Abdominal Drainage: know what to expect based on what anatomy is adjacent to the
 	- Gastric juices: 1-1.5L (+ any PO diet going through alimentary canal)
 	- Peritoneum: cycles 1L every day
 
+---
+### Lines
+
+#### Peripheral
+
+#### Central
+Removing central line (IJ/EJ)
+- Prevent air embolism
+- Trendelenberg 
+- Forceful exhale during removal (increased intrathoracic pressure decreases venous return, hopefully wont "suck" air into vessel)
+- Occlusive dressing
+---
 ### Chest Tubes
 
 - Chest tubes

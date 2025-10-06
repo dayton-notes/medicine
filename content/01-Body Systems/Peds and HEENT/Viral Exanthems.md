@@ -1,20 +1,15 @@
 ---
 aliases:
 ---
-w---
 ### quick reference
 
 
 ---
-### pathophysiology
-
-
----
-### epidemiology / etiology  
-
-
----
 ### clinical features
+
+
+---
+### workup
 
 
 ---
@@ -26,5 +21,3 @@ w---
 
 
 ---
-
-### other

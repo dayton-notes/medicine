@@ -1,48 +1,33 @@
-# Complete overview
----
-Gram pos ONLY: 
-- Vanc, Linezolid, Daptomycin, Clindamycin
+## Quick Reference
 
-Gram Neg ONLY: 
-- Aztreonam
+#### Bacteriostatic vs. Bacteriocidal? IT DOESN'T MATTER
+[Busting the Myth of "Static vs Cidal": A Systemic Literature Review - PubMed](https://pubmed.ncbi.nlm.nih.gov/29293890/)
+[Bacteriostatic versus bactericidal antibiotics for patients with serious bacterial infections: systematic review and meta-analysis - PubMed](https://pubmed.ncbi.nlm.nih.gov/25266070/)
+[Mortality and clinical cure rates for pneumonia: a systematic review, meta-analysis, and trial sequential analysis of randomized control trials comparing bactericidal and bacteriostatic antibiotic treatments - PubMed](https://pubmed.ncbi.nlm.nih.gov/35033654/)
+... and many more. Look it up.
 
-Anaerobe Coverage:
-- metronidazole, clindamycin, amox/clav, amp/sul, pip/tazo, moxifloxacin, meropenem, ertopenem
+#### Short is better
+![[Pasted image 20250930133558.png]]
 
-"Broad" Gm+/Gm-:
-- 3rd/4th gen ceph, pip/tazo, amp/sul, carbapenems (erta/mero), moxifloxacin
-- cefdinir/cefpodoxime (oral only)
+#### Short is NOT better
+![[Pasted image 20250930133942.png]]
+#### Oral is the new IV
+![[Pasted image 20250930133911.png]]
 
-MRSA Coverage:
-1. Vancomycin
-2. Linezolid
-3. Daptomycin
-4. Ceftaroline
-5. Clindamycin
-6. Tetracyclines
-7. TMP-SMX
+#### Quick Reference Table
 
-Pseudomonas Coverage
-	- Piperacillin/tazobactam
-	- Ceftazidime
-	- Cefepime
-	- Aztreonam (+/-)
-	- Ciprofloxacin (+/-)
-	- Meropenem
-	- Imipenem
-	- Ceftolozane/tazobactam (Zerbaxa)
-	- Ceftazidime/avibactam (Avycaz)
-	- Meropenem/Vaborbactam
-
-VRE Coverage:
-- Daptomycin
-- Linezolid
-- Ampicillin
+| **Gram pos ONLY**        | Vanc, Linezolid, Daptomycin, Clindamycin                                                                                                                                                                             |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gram Neg ONLY**        | **Aztreonam**                                                                                                                                                                                                            |
+| **Anaerobe Coverage**    | **clindamycin (above diaphragm)<br>metronidazole (below diaphragm) <br>Beta lactam / Beta lactamase: amox/clav, amp/sul, pip/tazo<br>moxifloxacin<br>meropenem, ertopenem**                                              |
+| **"Broad" Gm+/Gm-**      | **3rd/4th gen cephalosporins (cefdinir/cefpodoxime (oral only))<br>Beta lactam / Beta lactamase: amox/clav, amp/sul, pip/tazo<br>Carbapenems (erta/mero) <br>Moxifloxacin**                                              |
+| **MRSA Coverage**        | **Vancomycin <br>Linezolid<br>Daptomycin<br>Ceftaroline<br>Clindamycin<br>Tetracyclines<br>TMP-SMX**                                                                                                                     |
+| **Pseudomonas Coverage** | **Piperacillin/tazobactam<br>Ceftazidime<br>Cefepime<br>Aztreonam (+/-)<br>Ciprofloxacin (+/-)<br>Meropenem<br>Imipenem<br>Ceftolozane/tazobactam (Zerbaxa)<br>Ceftazidime/avibactam (Avycaz)<br>Meropenem/Vaborbactam** |
+| **VRE Coverage**         | **Daptomycin<br>Linezolid<br>Ampicillin**                                                                                                                                                                                |
 
 
 
-
-**##ANTIBACTERIALS**
+## Complete Overview
 
 **I.  BETA-LACTAMS** \= PCNs, Cephalosporins, Carbapenems, Monobactam(Aztreonam)  
 
@@ -66,21 +51,20 @@ VRE Coverage:
   
 **A. PENICILLINS**
 
-> **1\. Penicillin G** (IV) or V (PO)  
+**1\. Penicillin G** (IV) or V (PO)  
 > Spectrum:  Many strains of Streptococci **(Drug of choice for Group A Strep - universally PCN sensitive**), minority of Staphylococci (most are resistant) and some Enterococcus, most oral anaerobes, Syphilis (universally PCN sensitive).
-> 
->   
+>  
 > Used for: Strep throat and other infections due to Group A Strep, Syphilis (for neurosyphilis or pregnant women, must desensitize to PCN), bacteremia/endocarditis due to PCN sensitive Streptococcus, Enterococcus, or Staph aureus **(<10% of S.aureus strains are PCN-sensitive),** and more.  For most situations, generally start with broader antibiotics until pathogen and susceptibilities identified.
 > 
 >   
-> **2\. Aminopenicillins** \- **Ampicillin** (IV), **Amoxicillin** (PO)  
+**2\. Aminopenicillins** \- **Ampicillin** (IV), **Amoxicillin** (PO)  
 > Spectrum: some Gram positives (Strep, Enterococcus, Listeria) but **NOT MSSA**, and limited Gram negative coverage.  Notable gram negative holes include Klebsiella, Moraxella, and SPICE A organisms.  
 > Used for: Upper respiratory infections, sinusitis, otitis media, cellulitis, Listeria infections, [[UTI]]’s, early Lyme disease (alternative to Doxycycline), and more.
 > 
 > - **Drug of choice for Enterococcal infections if susceptible** (E.faecalis generally susceptible, E.faecium usually not).  Used with aminoglycosides for synergy for Enterococcal endocarditis.
 > - **Amoxicillin is the best-absorbed beta lactam** (75-90% bioavailability).  Little role for oral ampicillin due to inferior absorption vs Amoxicillin.
 > 
-> **3.** **Anti-Staphylococcal Penicillins** - **Methicillin / Nafcillin / Oxacillin** (IV), **Dicloxacillin** (PO)  
+**3.** **Anti-Staphylococcal Penicillins** - **Methicillin / Nafcillin / Oxacillin** (IV), **Dicloxacillin** (PO)  
 > Spectrum: MSSA, also with activity vs strep.  
 > Used for: **Drug of choice for** **MSSA infections** (unless PCN sensitive, which is rare).  Good choice for cellulitis, osteomyelitis, endocarditis, and bacteremia from MSSA. 
 > 
@@ -88,7 +72,7 @@ VRE Coverage:
 > - Dicloxacillin is a reasonable oral choice for non-severe cellulitis; otherwise, **for all serious MSSA infections (e.g. bacteremia, osteomyelitis, endocarditis), in general the entire course of therapy must be given intravenously.**
 > - Nafcillin tends to be better tolerated than Oxacillin (less hepatitis and rash)
 > 
-> **4.**  **Anti-pseudomonal PCNs** - **Piperacillin, Ticarcillin**  
+**4.**  **Anti-pseudomonal PCNs** - **Piperacillin, Ticarcillin**  
 > Usually combined with beta lactamase inhibitors (see below) which confers broader activity; however, beta-lactamase component does not add activity vs Pseudomonas (so if Pseudomonas is sensitive, could use Piperacillin alone).
 
 **B. COMBINED PENICILLIN/BETA-LACTAMASE INHIBITORS:**addition of beta lactamase inhibitor confers broader spectrum against common beta-lactamase producing organisms (such as **MSSA**, some gram negatives including H.influenza, Moraxella, **and virtually all** **anaerobes).**
@@ -270,13 +254,10 @@ Spectrum (General Rules):
 > 
 > - **A typical regimen in patients with bacterial meningitis and severe beta-lactam allergy would be Vancomycin + Chloramphenicol +/- Bactrim** (for Listeria in the appropriate patients)
 > - Toxicity: 1. Bone marrow suppression – direct, dose-related effect that is reversible. 2. **Aplastic anemia** – rare, idiosyncratic reaction (occurs at rate of 1/40,000), but generally fatal event.  Usually occurs several weeks after drug is stopped.  3. Gray baby syndrome in infants – presents with hypotension, shock, and cyanosis.
-
-[back to top](https://www.errolozdalga.com/medicine/pages/OtherPages/#top)
-
   
-**III. FLUOROQUINOLONES** \= DNA Gyrase  and Topoisomerase inhibitors àbactericidal
+**III. FLUOROQUINOLONES** \= DNA Gyrase  and Topoisomerase inhibitors (bactericidal)
 
-> Mechanism: DNA Gyrase  and Topoisomerase inhibitors àbactericidal  
+> Mechanism: DNA Gyrase  and Topoisomerase inhibitors bactericidal  
 > Side effects: **QT prolongation** (recent NEJM article suggested increased risk of cardiovascular death with Levofloxacin, but not Ciprofloxacin), tendon rupture (esp if on steroids), GI intolerance, cartilage damage, rare dysglycemias (Gatifloxacin removed from market for this reason), dizziness/HA’s, rashes, teratogenicity, transaminitis.   Fluoroquinolones also recently associated with increased risk of retinal detachment.  High rate of c.diff.
 > 
 > - **Fluoroquinolones also have excellent TB coverage (Moxifloxacin > Levofloxacin > Ciprofloxacin). If patient has PNA, but suspect TB, do not use FQ’s!!**(Do not want to use monotherapy against TB à will develop resistance)
@@ -312,10 +293,6 @@ Spectrum (General Rules):
 > - Many potential side effects:
 > - Common - Hypersensitivity (sulfas) and rashes, GI side effects, dose-dependent bone marrow suppression, increased creatinine (both from ***pseudo-Cr elevation due to blocked Cr secretion into tubules – average increase in Cr by ~20%,*** and true AKI from Interstitial Nephritis and ATN), **hyperkalemia** (esp high doses and with CKD)
 > - Uncommon - aseptic meningitis, methemoglobinemia and hemolysis in G6PD deficiency, transaminitis/cholestasis, pancreatitis, and more.
-
-[back to top](https://www.errolozdalga.com/medicine/pages/OtherPages/#top)
-
-  
 
 ## V. “SUPER GRAM POSITIVE ANTIBIOTICS”
 
@@ -379,10 +356,6 @@ Spectrum (General Rules):
 > 
 > **6\. Ceftaroline** (5th Gen Cephalosporin) – see Beta-lactam section above.  Covers MRSA, VISA, VRSA, Strep, Enterococcus faecalis/VRE (but not as good vs E.faecium).  Similar gram negative coverage as Ceftriaxone.
 
-[back to top](https://www.errolozdalga.com/medicine/pages/OtherPages/#top)
-
-  
-
 ## VI. “SUPER GRAM NEGATIVE ANTIBIOTICS” THAT COVER PSEUDOMONAS
 
 > Pseudomonas aeruginosa is a non-fermenting Gram-negative bacillus that inhabits a variety of environments (soil, water) and causes nosocomial infections (HAP/VAP, catheter-related infections, UTIs, post-surgical) and commonly affects immunocompromised patients (common cause of neutropenic fever, ecthyma gangrenosum), cystic fibrosis, and burn patients.  It is feared due both for its inherent resistance to most antibiotics as well as its propensity to develop resistance.
@@ -405,7 +378,7 @@ Spectrum (General Rules):
 > Used for: generally reserved for multidrug-resistant gram negative infections from above organisms, including pneumonia, bacteremia, and others.
 > 
 > - Can be given in aerosolized form as well as IV (both forms used quite commonly in Cystic Fibrosis patients with resistant gram negative infections)
-> - Old drugs that had been long abandoned for routine use due to its toxicity à ***Nephrotoxicity (reversible, dose-dependent) and Neurotoxicity (dizziness, pareshtesias, vertigo, ataxia, etc)*,** but recently experiencing a comeback due to rise in resistant gram negatives.  **May be better tolerated than older literature suggests.**
+> - Old drugs that had been long abandoned for routine use due to its toxicity  ***Nephrotoxicity (reversible, dose-dependent) and Neurotoxicity (dizziness, pareshtesias, vertigo, ataxia, etc)*,** but recently experiencing a comeback due to rise in resistant gram negatives.  **May be better tolerated than older literature suggests.**
 > 
 > **\*Treatment of HCAP/HAP/VAP in patients with high risk of MDR organisms: Essential to empirically treat for MRSA, and Gram negatives including Pseudomonas \***
 > 
@@ -413,8 +386,6 @@ Spectrum (General Rules):
 > - **Anti-MRSA Antibiotic:** Vancomycin or Linezolid (Not Daptomycin)
 > - **Anti-Pseudomonal Beta-lactam Antibiotic:** Ceftaz/Cefepime, Piperacillin-Tazobactam, Carbapenem (not Ertapenem), or Aztreonam
 > - **“Double Coverage” Agent for Pseudomonas** (Optional – depending on severity of illness, local antibiotic susceptibility patterns, etc): Aminoglycoside, or Ciprofloxacin/Levofloxacin (Not Moxifloxacin).  FQ’s have additional advantage of atypical coverage in cases where this is a possibility.
-
-[back to top](https://www.errolozdalga.com/medicine/pages/OtherPages/#top)
 
 ## VII. ANTIBIOTICS WITH ANAEROBE COVERAGE
 
@@ -541,7 +512,7 @@ Spectrum (General Rules):
 > **10) Any gram negative can develop resistance, and so can Staph – VISA, VRSA (very rare)**  
 > **11) Source control –** Abxs will not cure infection if source not controlled – undrained abscess,              infected line, empyema, etc.  
 > **12) Non-infectious causes of fever** – DVT’s, hematoma, drug fever, malignancy,  transfusion reactions, pancreatitis, and more  
-> **Note:  Typical “Step up” from Vanc/Zosyn** **à** **Linezolid/Meropenem – gains VRE and ESBL coverage, also possibly better MRSA PNA coverage.**
+> **Note:  Typical “Step up” from Vanc/Zosyn** , **Linezolid/Meropenem – gains VRE and ESBL coverage, also possibly better MRSA PNA coverage.**
 
   
 
@@ -575,7 +546,7 @@ Also used for Cryptococcus infections (maintenance phase for cryptococcal mening
 - **Poor CNS penetration**
 
 **3\. Voriconazole**(PO or IV)  
-Cidal for many molds à ***drug of choice for Invasive Aspergillosis***! (appears to be superior to Ampho B and better tolerated -  NEJM 2002 ).  Active vs Fusarium and Scedosporium.  Also effective against most Candida, but little reason to use over Fluconazole, and ~50% cross-resistance. 
+Cidal for many molds // ***drug of choice for Invasive Aspergillosis***! (appears to be superior to Ampho B and better tolerated -  NEJM 2002 ).  Active vs Fusarium and Scedosporium.  Also effective against most Candida, but little reason to use over Fluconazole, and ~50% cross-resistance. 
 
 - One important hole in coverage is **no Zygomycetes (Mucormycosis)**
 - Liver toxicity, also **Visual toxicity** – transient visual changes (common) and visual hallucinations (~4%, also reversible).  Encephalopathy with supratherapeutic levels.
@@ -614,7 +585,7 @@ First approved echinocandin. Load 70 mg IV qday, then 50 mg qday.  Hepatically 
 **2\. Micafungin**  
 Similar to Caspofungin. 100 mg daily, no loading dose.  Hepatically cleared.   
 **3\. Anidulafungin**           
-Newest echinocandin.  Unique metabolism: ***chemically degraded in the blood, no hepatic or renal clearance*** ***à*** ***safer in liver/renal failure.  Also no significant drug-drug interactions.***  
+Newest echinocandin.  Unique metabolism: ***chemically degraded in the blood, no hepatic or renal clearance***, ***safer in liver/renal failure.  Also no significant drug-drug interactions.***  
 Load 200 mg IV once, then 100 mg IV qday
 
 [back to top](https://www.errolozdalga.com/medicine/pages/OtherPages/#top)  

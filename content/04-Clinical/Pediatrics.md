@@ -3,47 +3,48 @@
 ![[IMG_3198.png]]
 
 #### Resources: (put in links)
-AAP Guidelines / Bright Futures
-CDC Guidelines
+[Bright Futures Resource List]([BF_AAP_ResourceList.pdf](https://downloads.aap.org/AAP/PDF/Bright%20Futures/BF_AAP_ResourceList.pdf))
 Red Book of ID
-Harriet Lane Handbook
-Medicaid preferred drug list
+[BiliTool™](https://bilitool.org/)
+[NC Medicaid Preferred Drug List (as of 7/1/25)]([download](https://medicaid.ncdhhs.gov/nc-medicaid-preferred-drug-list-revised-aug-28-2025/download?attachment))
 
 ---
 #### Vaccine Schedule
-- ![[Pasted image 20250619084100.png]]
+![[Pasted image 20250619084100.png]]
 - Autism / Vaccine Resources
 	- 
 ---
 #### Well Visit Interview (HEEADSSS)
 - Home life
-	- Who do you live with
+	- Who do you live with? 
 - Education
-	- Daycare, what year in school, how's it going
+	- Daycare, what year in school, etc.
 - Eating
 	- Diet
-- Acitvities
+- Activities
 	- Age based, from tummy time to sports
 - Drugs
 	- Secondhand smoke, personal use, illicit
-- Secuality
-	- bf/gf, etc
+- Sexuality
+	- bf/gf, contraception, testing, etc
 - SI/HI/Depression
 	- Screen! (>12)
 - Safety
-	- Holistic
+	- Holistic & age appropriate (car seat, seatbelt, helmet, etc)
 
 ---
+#### Milestones
+![[IMG_3507.jpeg]]
 
+---
 #### Screenings
-- ![[Pasted image 20250619084420.png]]
+![[Pasted image 20250619084420.png]]
   [periodicity_schedule.pdf](https://downloads.aap.org/AAP/PDF/periodicity_schedule.pdf)
   - ASQ (Ages and Stages)
   - Maternal Depression = Edinburgh
   - MCHAT (Autism)
   - PSC (Periodic Symptom Checklist)
   - GAPS (Guidelines for Adolescent)
-  - 
 ---
 #### Red Flags
 - Vital Signs
@@ -69,19 +70,26 @@ Medicaid preferred drug list
 	- Bilat grip reflex
 	- Listen to Belly
 	- Press on belly
-	- Undo diaper: femoral pulses, check genitalia .check hips
+	- Undo diaper: femoral pulses, check genitalia, check hips
 	- Reattach diaper, check feet reflexes and cap refill
+	- Flip baby, check spine
+	- Moro reflex
+	- Swaddle
+	- Mouth: light, gloved finger checks palate and suck reflex
+	- RED REFLEX
+	- Note skin color during exam
 	
 - Hyperbilirubinemia
 	- Put in notes
 	- Phototherapy
 	- Goal: prevent bilirubin encephalopathy and Kernicterus
+	
 - Important PE Findings
 	- Scleral hemorrhage (pupil spared = okay)
 	- Choanal atresia (lack of patent nasal passages)
 	- Torticollis (asymmetrical neck muscle tightness)
 	- Murmurs (PDA, ASD/VSD, etc.)
-	- Hips (@4-6 weeks: barlow-adduction / ortolani-abduction) 
+	- Hips (@4-6 weeks: bartlow-adduction / ortolani-abduction) 
 		- Click / clunk or breech birth = ultrasound
 		- fix= Pavlic harness
 	- Feet - club feet
