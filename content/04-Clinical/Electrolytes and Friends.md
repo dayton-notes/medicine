@@ -27,7 +27,7 @@ Potassium Repletion
 	- Hemolysis: always ask "does this make sense"
 	- Acidosis: pH<7.35 causes shift extracellular
 	- Meds/Decreased renal excretion: ACE-I, MRA, Beta Blockers, AKI/CKD
-	- Excessive intake: 
+	- Excessive intake: ate too much! Rare
 
 #### Total Bilirubin / AST / ALT / ALP / GGT :
 Important functional measures of hepatobiliary system 

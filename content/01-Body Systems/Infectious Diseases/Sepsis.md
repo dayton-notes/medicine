@@ -30,6 +30,7 @@ Sepsis III definition of septic shock: Infection causing vasopressor requirement
 
 Early (<1 hr) broad spectrum antibiotics
 - every hour delay increases mortality
+- Consider clindamycin or linezolid prior to broad antibiotics (decrease toxin production)
 Fluid Resusc (30ml/kg IBW)
 - SALT-ED + SMART Trial - LR wins
 - Deviate for comorbidities (e.g. less fluid for CHF, etc.)

@@ -1,4 +1,3 @@
-##[[Bacteria Overview]]
 
 C. psittaci - causes psittacosis
 

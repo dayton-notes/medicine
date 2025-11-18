@@ -11,7 +11,7 @@ Thus:
 
 > _**PAO2 = (149 - (PaCO2 × 1.25)**_
 
-Thus, the patient with a relatively normal PaCO2 (say, 40) :
+In the patient with a relatively normal PaCO2 (say, 40) :
 
 > _**PAO2 = (149 - 50)**_ = 99mmHg
 
@@ -28,7 +28,7 @@ Thus, the patient with a relatively normal PaCO2 (say, 40) :
 | **FiO2 90%**  | 592 |
 | **FiO2 100%** | 662 |
 
-In a nutshell, one can say that for every 10% increase in FiO2, the PAO2 will rise by about 71-72 mmHg.
+For every 10% increase in FiO2, the PAO2 will rise by about 71-72 mmHg.
 
 ---
 

@@ -19,7 +19,7 @@ Quadrant Based DDx
 
 #### **Shortness of breath:**
 - Congestive heart failure / Flash Pulmonary Edema
-- Chronic obstructive pulmonary disease (COPD) exacerbation
+- Chronic obstructive pulmonary disease ([[COPD]]) exacerbation
 - Asthma exacerbation
 - [[CAP|Pneumonia]]
 - Pulmonary embolism

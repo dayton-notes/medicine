@@ -89,7 +89,7 @@ HINTS
 	- [Gait assessment in the initial evaluation of posterior circulation stroke - Journal of Stroke and Cerebrovascular Diseases](https://www.strokejournal.org/article/S1052-3057\(24\)00581-0/fulltext)
 - [Clinical diagnosis of benign paroxysmal positional vertigo and vestibular neuritis | CMAJ](https://www.cmaj.ca/content/192/8/e182)
 - [GRACE-3 Dizziness - Emergency Medicine Clinical Practice Guideline | SAEM](https://www.saem.org/publications/grace/grace-3)
-- 
+
 
 
 #### Vertigo/Dizziness Types and DDx

@@ -1,6 +1,5 @@
 [[Penicillins]]
-[[Penicillinase‑Resistant Penicillins]]
-[[Aminopenicillins]]
+
 [[Natural Penicillins]]
 [[PCN+Beta-Lactamase Inhibitors]]
 [[Cephalosporins]]
@@ -10,7 +9,7 @@
 [[Penicillins]]
 	[[Natural Penicillins]] (strep, syphilis)
 	[[Ampicillin]], [[Amoxicillin]] (strep, Enterococcus, Listeria)
-	[[Nafcillin]], oxacillin (staph)
+	[[Nafcillin]], oxacillin (non MRSA staph)
 	Unasyn, Augmentin (mixed – no Pseudomonas)
 	[[Zosyn]] (mixed – including Pseudomonas)
 

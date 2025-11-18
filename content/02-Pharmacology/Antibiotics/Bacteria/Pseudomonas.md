@@ -7,7 +7,7 @@ Common infections:  [[CAP|pneumonia]], [[01-Body Systems/Urology/UTI]]
 
 Causes many other infections less commonly including endocarditis, osteo, infections of the eye, skin/soft tissue, & CNS
 
-Beta-Lactams that hit Pseudomonas
+Beta-Lactams that cover Pseudomonas
 	Piperacillin/tazobactam
 	Ceftazidime
 	Cefepime

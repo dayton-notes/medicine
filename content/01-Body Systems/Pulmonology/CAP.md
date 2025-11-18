@@ -2,6 +2,7 @@
 aliases:
   - Pneumonia
   - Community Acquired Pneumonia
+  - CAP
 ---
 ### quick reference
 

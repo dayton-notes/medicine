@@ -94,7 +94,7 @@
 > Spectrum: similar to Unasyn in having gram positive, gram negative, anaerobic coverage, but better overall gram negative coverage, **including Pseudomonas and most SPICE A organisms.**  
 > Used for: many purposes, including hospital-acquired/healthcare-associated PNA, severe skin/soft tissue infections including diabetic ulcers, intraabdominal infections.  
 > 
-> - ***Very broad antibiotics so easier to remember common bugs that it does NOT cover:  MRSA, most strains of VRE, many Coag negative staph strains, Atypicals (Chlamydia, Mycoplasma, Legionella), ESBLs****.*
+> - ***Very broad antibiotics so easier to remember common bugs that it does NOT cover:  MRSA, most strains of VRE, many Coag negative staph strains, [[Atypicals]] (Chlamydia, Mycoplasma, Legionella), ESBLs****.*
 > - Note Zosyn’s higher dosing for PNA/Pseudomonas coverage: 4.5 g q6 hrs (vs. 3.375 g q6 for other indications)
 > - “Extended Infusion” strategy – 3.375 g over 4 hours, q8 hrs – some data suggesting better outcomes for treatment of Pseudomonas infections compared to standard dosing (goal to maximize time above MIC).
 
@@ -175,7 +175,7 @@ Spectrum (General Rules):
 > Used for: many serious infections due to resistant gram negatives, including hospital/health-care associated PNA, meningitis, intraabdominal infections, complicated skin and soft tissue infections
 > 
 > - **The most reliable class of antibiotics against ESBL organisms** and the SPICE-A organisms.
-> - Very broad – easier to remember common bugs that it doesn’t cover:  MRSA, most VRE, Atypicals, Stenotrophomonas (carbapenem use is a risk factor for Stenotrophomonas infection).
+> - Very broad – easier to remember common bugs that it doesn’t cover:  MRSA, most VRE, [[Atypicals]], Stenotrophomonas (carbapenem use is a risk factor for Stenotrophomonas infection).
 > - Great penetration virtually everywhere, including CSF  .
 > - **Ertapenem does NOT cover Pseudomonas**, but does still cover ESBL (main advantage is convenient once/day dosing - great outpatient IV drug).  **Other differences of Ertapenem (vs other carbapenems) is lack of activity vs Acinetobacter and Enterococci.**
 > - Doripenem – newest carbapenem, main theoretical advantage = increased in vitro potency against Pseudomonas, and lower likelihood of development of resistance in vitro (clinical benefit not yet demonstrated)
@@ -190,7 +190,7 @@ Spectrum (General Rules):
 > - Main advantages:1) **No cross-reactivity with PCN allergy (except with Ceftazidime – cross-reactivity due to identical side chain)** and 2) Does not cause renal failure (almost no significant toxicity)
 > - ***Beware significant rate of resistance of Pseudomonas in most institutions, so empiric double coverage often required.***
 > 
-> **Comparison of the 3 broadest spectrum beta-lactams:** **Cefepime, Zosyn, and Carbapenems (non-Ertapenem) have activity against both Gram positive (MSSA, Strep) and Gram negative including Pseudomonas.**  They do NOT cover: MRSA, VRE, Atypicals, among others.
+> **Comparison of the 3 broadest spectrum beta-lactams:** **Cefepime, Zosyn, and Carbapenems (non-Ertapenem) have activity against both Gram positive (MSSA, Strep) and Gram negative including Pseudomonas.**  They do NOT cover: MRSA, VRE, [[Atypicals]], among others.
 > 
 > - **Cefepime** – main weakness is **weak anaerobe coverage and no Enterococcus**
 > - **Zosyn** (Piperacillin/Tazobactam) – broader due to excellent anaerobe coverage, activity vs Amp-susceptible Enterococcus.  No ESBL coverage.
@@ -214,7 +214,7 @@ Spectrum (General Rules):
 > - Side effects: **QT prolongation** (recent NEJM article suggested slight  increased risk of cardiovascular death with Azithromycin), prominent GI side effects, rash.
 > 
 > **2. Tetracyclines – Doxycycline, Tetracycline, Minocycline** - 30S Inhibitors (PO and IV)  
-> Spectrum: Fairly broad spectrum with some Staph and MRSA coverage, some gram negative coverage, and atypicals.   **Has activity for unusual pathogens including: Rickettsia, Lyme disease, Tularemia, Vibrio, Brucella, Q fever, Anthrax**  
+> Spectrum: Fairly broad spectrum with some Staph and MRSA coverage, some gram negative coverage, and [[atypicals]].   **Has activity for unusual pathogens including: Rickettsia, Lyme disease, Tularemia, Vibrio, Brucella, Q fever, Anthrax**  
 > Used for: Doxycycline - Skin and soft tissue infections when suspect community-acquired MRSA, respiratory tract infections, and unusual infections as above.  Drug of choice for early Lyme disease, and for Lyme prophylaxis after tick bite.  Also used for malaria prophylaxis, acne and rosacea. 
 > 
 > - Side Effects: photosensitivity, GI discomfort, teeth discoloration, inhibits bone growth in children, teratogenic, steatosis and hepatotoxicity.
@@ -271,7 +271,7 @@ Spectrum (General Rules):
 > - **Common myth is that it does not “penetrate” the lungs.  This is false – it is not used in community-acquired PNA due to lack of Strep pneumo coverage.**  **It is routinely used for HAP/HCAP/VAP as double-coverage for Pseudomonas** (note more frequent dosing for PNA – 400 mg IV q8 hours)
 > 
 > **2.** **Levofloxacin (Levaquin)**(PO and IV)  
-> Spectrum: “Respiratory Fluoroquinolone” -  excellent activity vs. Strep pneumo, slightly less reliable Pseudomonas coverage than Cipro.   Good for atypicals.   
+> Spectrum: “Respiratory Fluoroquinolone” -  excellent activity vs. Strep pneumo, slightly less reliable Pseudomonas coverage than Cipro.   Good for [[atypicals]].   
 > Used for: **Community Acquired PNA (can use as monotherapy**), sinusitis/bronchitis, UTI’s, and double coverage of Pseudomonas including hospital acquired PNA.  
 > 
 > **3. Moxifloxacin** **(Avelox)** (PO and IV)
@@ -345,7 +345,7 @@ Spectrum (General Rules):
 >   
 > **5\. Tigecycline**(IV)  
 > Mechanism: Glycylcycline class - structurally related to Tetracyclines (bacteriostatic).  Only IV.   
-> Spectrum: Broad coverage - Gram positive (including MRSA and VRE), Gram negatives, anaerobes, and atypicals.   Notable holes in coverage include ***Pseudomonas, Proteus, and Providencia****.*  
+> Spectrum: Broad coverage - Gram positive (including MRSA and VRE), Gram negatives, anaerobes, and [[atypicals]].   Notable holes in coverage include ***Pseudomonas, Proteus, and Providencia****.*  
 > Used for: complicated intraabdominal infections, skin/soft tissue infections, and sometimes for pneumonia.
 > 
 > - **Beware overall increased risk of death** when used for severe infections (2010 metanalysis) – FDA black box warning!
