@@ -1,8 +1,19 @@
 ---
 aliases:
   - Vent
+  - Ventilator
 ---
 ---
+
+### Initial Settings - Quick Reference
+
+| **Disease**                                                       | Mode | **Tidal Volume (mL/kg^)** | **Respiratory Rate** | **I:E**  | **PEEP** | **FiO2** |
+| ----------------------------------------------------------------- | ---- | ------------------------- | -------------------- | -------- | -------- | -------- |
+| Traditional                                                       | A/C  | 8                         | 10-12                | 1:2      | 5        | 100%     |
+| Lung Protective (e.g. [ARDS](https://wikem.org/wiki/ARDS "ARDS")) | A/C  | 6                         | 12-20                | 1:2      | 2-15     | 100%     |
+| Obstructive (intubation will generally make it worse)             | A/C  | 6                         | 5-8                  | 1:4 LONG | 0-5      | 100%     |
+| [Hypovolemic](https://wikem.org/wiki/Hypovolemic "Hypovolemic")   | A/C  | 8                         | 10-12                | 1:2      | LOW      | 100%     |
+
 ### Overview
 
 **3 Major Indications** for  / Intubation/Mechanical Ventilation
@@ -36,6 +47,7 @@ aliases:
 			- Normal = 5cmH2O
 ---
 ### Modes
+[Ventilation modes - WikEM](https://wikem.org/wiki/Ventilation_modes)
 Assist Control
 SIMV: initiates mechanical breaths and support patient breaths
 Pressure Control
@@ -43,7 +55,7 @@ Pressure Control
 Volume Control
 - Set volume, pressure depends on lung compliance
 ---
-### Settings
+### Settings / Vocabulary
 **FiO2**: the percentage of inspired oxygen, recall that room air is 21% (0.21) at all altitudes.  
 **Mode**: see the more detailed discussion below and the graphics above. 
 **Rate**: how many mandatory breaths per minute your patient is given is your set rate. Your patient can ‘overbreathe’ at a higher rate, the level of support with these spontaneous breaths is also something that can be set (see discussion below). 
@@ -92,7 +104,7 @@ PRVC (Pressure Regulated Volume Control), aka Volume Assured Pressure Control
 - This is a form of Assist Control mechanical ventilation. It combines a pressure limit (pressure control) with volume assurance, thus guaranteeing a minimum minute ventilation. The ventilator adjusts the pressure from breath to breath, as the patient’s airway resistance and respiratory system compliance changes, in order to deliver the set tidal volume. The ventilator monitors each breath and compares the delivered tidal volume with the set tidal volume and adjusts the inspiratory pressure on the next breath appropriately. - 
 
 Synchronized Intermittent Mandatory Ventilation (SIMV or IMV), aka The Surgeon’s Mode. 
-- SET: FiO2, Tidal Volume, Rate, PEEP. o 
+- SET: FiO2, Tidal Volume, Rate, PEEP. 
 - THE DETAILS: Similar to AC with one notable difference, only the set breaths are fully supported. If the set rate is 6 and the patient is breathing 12, then 6 of the breaths get the full set tidal volume and the other 6 get no support. You can assist the spontaneous breaths with Pressure Support to overcome the ventilator circuit, if you’d like. If your patient isn’t ready to tolerate Pressure Support alone, then you may as well just rest him on AC. MICU physicians almost never use SIMV. - 
 
 Pressure Support  
@@ -108,5 +120,5 @@ Pressure Support
 [Ventilator Simulator - OPENPediatrics](https://learn.openpediatrics.org/pages/24/simulators)
 
 **ET Tube Size (cuffed):**
-- Age/4 +3.5
-- Always use cuffed tube, even in infants! (small tubes will be "lo-pro" tubes)
+- Age/4 +3.5 (max out at 7.5/8)
+- Always use cuffed tube, even in infants/neonates! (small tubes will be "lo-pro" tubes)

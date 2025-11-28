@@ -39,6 +39,18 @@ aliases:
 ---
 ### diagnosis
 
+DDx:
+
+Chronic:
+Lumbago
+Sciatica
+Spondylosis
+Spondylysis
+Spondylolisthesis
+
+Scary:
+Discitis/Osteomyelitis
+Spinal Epidural Abscess
 
 ---
 ### treatment

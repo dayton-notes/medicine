@@ -45,7 +45,7 @@ Other Signs or Findings
 One major criterion OR three or more minor criteria
 	Major Criteria
 		- Septic shock with need for vasopressors 
-		- Respiratory failure requiring mechanical ventilation
+		- Respiratory failure requiring [[mechanical ventilation]]
 	Minor Criteria
 		- Respiratory rate ≥ 30 breaths/min 
 		- PaO2/FIO2 ratio ≤ 250* 

@@ -26,7 +26,7 @@ Many species including:
 	- [[Ludwig's Angina]]
 - Soft tissue (especially w/ vascular compromise)
 	- [[diabetic foot]]
-- Others (eg, [[osteomyelitis]], bacteremia)
+- Others (eg, [[Osteomyelitis]], bacteremia)
 
 Characteristics of Anaerobic Infections
 	Suppurative (forms pus)

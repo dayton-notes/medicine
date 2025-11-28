@@ -26,12 +26,10 @@ Prolonged decel = duraion >2min
 
 #### BPP (biophysical profile)
 
-
-
 #### NST (Non Stress Test)
 Indications:
 Antepartum Fetal Surveillance
 
 Reactive (Resassuring)
 - 20 min
-	- 
+ 

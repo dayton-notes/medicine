@@ -45,7 +45,7 @@ General: <90 mme / day
 - Non-cancer patients: give w/apap
 
 
-- When switching between opiods: cut 30-50%
+- When switching between opioids: cut 30-50%
 - Duration of IV is shorter than oral (2-3 hours vs 6-12 hours)
 - Onset of IV is faster than Oral (minutes vs 30-60 min)
 - 

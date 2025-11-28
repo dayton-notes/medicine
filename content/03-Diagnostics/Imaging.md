@@ -3,9 +3,9 @@
 
 #### clinical pearls:
 - NGT should not advance past R border of vertebrae 
-	- If it does, it's probably in the duodenum
-
-
+	- If it does, it's probably in the duodenum / post-pyloric
+- ET tube should terminate ~5cm (± 2 cm) above the carina (in Adults)
+- 
 ### CT
 
 #### clinical pearls
