@@ -8,7 +8,6 @@
 	- Meds: a blockers, diuretics, antihypertensives
 - Seizure
 	- don’t wake up immediately normal (postictal)
-- 
 
 ### don’t miss
 

@@ -5,11 +5,12 @@ aliases:
   - Ibuprofen
   - Nsaid
 ---
-
 ### Opioid
 
 #### quick reference
 
+Converter: [Pain Management Opioid Dose Converter](https://www.paindata.org/calculator.php)
+Taper/Stop: [Pain Management Taper Calculator](https://www.paindata.org/taper.php?using=10%25)
 ##### Adult Doses:
 Morphine-
 - (IV): 2–4 mg IV every 2–4 hours as needed

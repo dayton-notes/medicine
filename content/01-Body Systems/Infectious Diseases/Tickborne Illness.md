@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Tickborn
+  - Lyme
+  - RMSF
 ---
 ---
 ### quick reference

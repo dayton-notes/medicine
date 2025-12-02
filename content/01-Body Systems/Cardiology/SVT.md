@@ -15,7 +15,7 @@ Supraventricular tachycardia is a general term for dysrhythmias originating at
 
 For unstable patients, the heart fills during diastole, which typically accounts for two-thirds of the cardiac cycle. A rapid heart rate significantly shortens the time for the ventricles to fill, decreasing blood flow from the heart during systole. This reduction in blood ejection results in lower cardiac output, leading to hypotension. 
 
-As cardiac output drops, patients may exhibit symptoms such as hypotension, hypoxia, chest pain, dyspnea, altered mental status, or other signs of shock. These symptoms are more common when the heart rate exceeds 150 bpm. In cases where the patient is unstable, immediate synchronized cardioversion should be considered.
+As cardiac output drops, patients may exhibit symptoms such as hypotension, hypoxia, [[chest pain]], dyspnea, altered mental status, or other signs of shock. These symptoms are more common when the heart rate exceeds 150 bpm. In cases where the patient is unstable, immediate synchronized cardioversion should be considered.
 
 A defibrillator must be set to sync mode, typically indicated by a marker on the device's screen highlighting each QRS complex. This synchronization ensures that the shock is delivered in line with the QRS complex, preventing delivery during the T wave, which could trigger ventricular fibrillation, known as the R on T phenomenon.
 

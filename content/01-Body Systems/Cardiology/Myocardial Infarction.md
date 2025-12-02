@@ -14,7 +14,7 @@ aliases:
 #### **type-I MI**
 
 - Subjective:
-    - Chest pain (often pressure, may radiate to arms/jaw).
+    - [[Chest pain]] (often pressure, may radiate to arms/jaw).
     - Associations include vomiting, diaphoresis, dyspnea.
 - ECG: Findings of occlusive or nonocclusive MI (see above).
 - Exam: POCUS may show wall-motion abnormality.

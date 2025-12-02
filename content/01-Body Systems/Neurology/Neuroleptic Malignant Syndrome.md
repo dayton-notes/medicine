@@ -65,7 +65,7 @@ Treatment involves both augmentation of D2 signaling in the brain, as well as pr
 
 #### **causative agents**
 
-- Antipsychotics are the most common cause:
+- [[Antipsychotics]] are the most common cause:
     - NMS can occur with typical or atypical agents (especially clozapine).
     - NMS usually presents within a month of initiating treatment (most often within two weeks), but it _can_ emerge during chronic therapy (often triggered by another illness).
 - Antiemetics that block the dopamine receptor:
@@ -80,7 +80,7 @@ Treatment involves both augmentation of D2 signaling in the brain, as well as pr
 - Aspects of antipsychotic therapy:
     - Rapid up-titration of neuroleptic.
     - Higher doses of antipsychotic.
-    - First-generation (“typical”) antipsychotics have greater risk than atypical antipsychotics. Clozapine and quetiapine have the lowest risk.(Shutter, 2019)
+    - First-generation (“typical”) [[antipsychotics]] have greater risk than atypical [[antipsychotics]]. Clozapine and quetiapine have the lowest risk.(Shutter, 2019)
     - Multiple antipsychotic agents, coadministration with lithium.
 - Underlying dopamine deficiency:
     - Parkinson's disease or Lewy body dementia.([28144147](https://pubmed.ncbi.nlm.nih.gov/28144147/))
@@ -89,7 +89,7 @@ Treatment involves both augmentation of D2 signaling in the brain, as well as pr
 
 #### **epidemiology**
 
-- The risk of NMS is on the order of ~0.01-0.04% among people exposed to antipsychotics.
+- The risk of NMS is on the order of ~0.01-0.04% among people exposed to [[antipsychotics]].
 - There doesn't appear to be any dramatic age or sex predominance.
 - Historical trends towards higher rates among young men may simply represent patients treated with higher doses of neuroleptics.
 - There are a few case reports of NMS arising _within_ the ICU, as a nosocomial complication of antipsychotic administration. Diagnosis of nosocomial NMS is challenging (e.g., the development of fever and altered mental status may initially be attributed to sepsis).

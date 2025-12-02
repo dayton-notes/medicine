@@ -1,49 +1,49 @@
-#### **Abdominal pain:**
-Quadrant Based DDx
+#### **Abdominal pain**
+[[GI Quadrant-Based DDx]]
 - Gastroenteritis
 - Appendicitis
 - Cholecystitis
-- Pancreatitis
+- [[Pancreatitis]]
 - Bowel obstruction
-- Constipation
-- Pancreatitis
+- [[Constipation]]
+- [[Pancreatitis]]
 #### [[Chest pain]]
 - Acute coronary syndrome ([[ACS]])
-- Pulmonary embolism
+- [[Pulmonary embolism]]
 - Aortic dissection
 - [[CAP|Pneumonia]]
 - Pneumothorax
-- Pleural Effusion
+- [[Pleural Effusion]]
 - Gastroesophageal reflux disease (GERD)
 - Cough
 
-#### **Shortness of breath:**
+#### **Shortness of breath**
 - Congestive heart failure / Flash Pulmonary Edema
 - Chronic obstructive pulmonary disease ([[COPD]]) exacerbation
-- Asthma exacerbation
+- [[Obstructive Lung Disease|Asthma]] exacerbation
 - [[CAP|Pneumonia]]
 - Pulmonary embolism
 - ARDS
-- DKA
+- [[DKA]]
 #### **Cough**
 - Viral URI
 - Acute Bronchitis
 - [[CAP]]
-- COPD / COPD exacerbation
+- [[Obstructive Lung Disease|COPD]] / [[Obstructive Lung Disease|COPD]] exacerbation
 - UACS
 - PE
 - Heart Failure / Pulmonary Edema
 
-#### **Headache:**
+#### **Headache**
 - Migraine
 - Tension-type headache
 - Subarachnoid hemorrhage
-- Meningitis
+- [[Meningitis]]
 - Temporal arteritis (in older adults)
-- Increased ICP
+- Increased [[TBI|ICP]]
 - Hypertensive Emergency
 
-#### **Back pain:**
+#### **Back pain**
 - Musculoskeletal strain
 - Herniated disc
 - Vertebral fracture
@@ -61,17 +61,17 @@ Quadrant Based DDx
 
 #### **Nausea / Vomiting**
 - Acute Viral / Bacterial Gastroenteritis / food poisoning
-- Cannabinoid Hyperemesis Syndrome
+- [[Cannabinoid Hyperemesis Syndrome]]
 - Meds/Toxins
-- Pregnancy-related
-- Gastritis / PUD
-- Vestibular disorder
-- SBO
+- [[Pregnancy]]-related
+- Gastritis / [[Peptic Ulcer Disease|PUD]]
+- [[Vertigo]]
+- [[Small Bowel Obstruction|SBO]]
 - [[ACS]]
 
 #### **Floppy baby**
-- Tick paralysis
-- Sepsis
+- Tickborne disease
+- [[Sepsis]]
 - Infantile botulism (descending paralysis)
 - Hypoglycemia
 - Intracranial Hemorrhage (Vit K shot?)

@@ -59,7 +59,7 @@
 >   
 **2\. Aminopenicillins** \- **Ampicillin** (IV), **Amoxicillin** (PO)  
 > Spectrum: some Gram positives (Strep, Enterococcus, Listeria) but **NOT MSSA**, and limited Gram negative coverage.  Notable gram negative holes include Klebsiella, Moraxella, and SPICE A organisms.  
-> Used for: Upper respiratory infections, sinusitis, otitis media, cellulitis, Listeria infections, [[UTI]]’s, early Lyme disease (alternative to Doxycycline), and more.
+> Used for: Upper respiratory infections, sinusitis, otitis media, cellulitis, Listeria infections, [[UTI]]’s, early [[Tickborne Illness|Lyme]] disease (alternative to Doxycycline), and more.
 > 
 > - **Drug of choice for Enterococcal infections if susceptible** (E.faecalis generally susceptible, E.faecium usually not).  Used with aminoglycosides for synergy for Enterococcal endocarditis.
 > - **Amoxicillin is the best-absorbed beta lactam** (75-90% bioavailability).  Little role for oral ampicillin due to inferior absorption vs Amoxicillin.
@@ -121,7 +121,7 @@ Spectrum (General Rules):
 > - **Cefuroxime** (PO and IV)
 > 
 > Spectrum: Gram positive and more gram negative’s  than 1st generation - gains activity vs H.influenza, Enterobacter, Neisseria.   
-> Used for: respiratory infections (upper and lower tract), gonorrhea, UTIs, Lyme disease (alternative to Doxycycline), and more.
+> Used for: respiratory infections (upper and lower tract), gonorrhea, UTIs, [[Tickborne Illness|Lyme]] disease (alternative to Doxycycline), and more.
 > 
 > - **”Cephamycins” -**  **Cefoxitin**, **Cefotetan** (IV)  
 > 	Spectrum: get **anaerobes** and gram negatives, but no Pseudomonas and weak/unreliable  gram positive coverage.   
@@ -135,7 +135,7 @@ Spectrum (General Rules):
 > a. **Ceftriaxone (Rocephin)** – IV, **Cefotaxime** \- IV, **Cefpodoxime \-** PO  
 > 
 > > Spectrum: Good gram positive (although possibly worse than 1st generation) and excellent gram negative coverage (E.coli, Proteus, Klebsiella, Neisseria, H.influenza, and most SPACE organisms, but ***not Pseudomonas), no anaerobes*** .   
-> > Used for:  Ceftriaxone used in many situations including community acquired PNA (with Azithromycin), meningitis (CTX has excellent CSF penetration), spontaneous bacterial peritonitis, some skin/soft tissue infections, bacteremia/endocarditis from susceptible strep, urinary tract infections/pyelonephritis, bone and joint infections, late Lyme disease, gonorrhea, pelvic infections, and more. 
+> > Used for:  Ceftriaxone used in many situations including community acquired PNA (with Azithromycin), meningitis (CTX has excellent CSF penetration), spontaneous bacterial peritonitis, some skin/soft tissue infections, bacteremia/endocarditis from susceptible strep, urinary tract infections/pyelonephritis, bone and joint infections, late [[Tickborne Illness|Lyme]] disease, gonorrhea, pelvic infections, and more. 
 > 
 > - Note small but important rate of resistance in Strep pneumo.
 > - Ceftriaxone usually once daily dosing (1-2 g) except for meningitis (2 g IV q12 hours). Cefotaxime is more frequent dosing (often used preferentially for spontaneous bacterial peritonitis due to good track record and high levels achieved in ascitic fluid, but Ceftriaxone probably equivalent).
@@ -214,8 +214,8 @@ Spectrum (General Rules):
 > - Side effects: **QT prolongation** (recent NEJM article suggested slight  increased risk of cardiovascular death with Azithromycin), prominent GI side effects, rash.
 > 
 > **2. Tetracyclines – Doxycycline, Tetracycline, Minocycline** - 30S Inhibitors (PO and IV)  
-> Spectrum: Fairly broad spectrum with some Staph and MRSA coverage, some gram negative coverage, and [[atypicals]].   **Has activity for unusual pathogens including: Rickettsia, Lyme disease, Tularemia, Vibrio, Brucella, Q fever, Anthrax**  
-> Used for: Doxycycline - Skin and soft tissue infections when suspect community-acquired MRSA, respiratory tract infections, and unusual infections as above.  Drug of choice for early Lyme disease, and for Lyme prophylaxis after tick bite.  Also used for malaria prophylaxis, acne and rosacea. 
+> Spectrum: Fairly broad spectrum with some Staph and MRSA coverage, some gram negative coverage, and [[atypicals]].   **Has activity for unusual pathogens including: Rickettsia, [[Tickborne Illness|Lyme]] disease, Tularemia, Vibrio, Brucella, Q fever, Anthrax**  
+> Used for: Doxycycline - Skin and soft tissue infections when suspect community-acquired MRSA, respiratory tract infections, and unusual infections as above.  Drug of choice for early [[Tickborne Illness|Lyme]] disease, and for [[Tickborne Illness|Lyme]] prophylaxis after tick bite.  Also used for malaria prophylaxis, acne and rosacea. 
 > 
 > - Side Effects: photosensitivity, GI discomfort, teeth discoloration, inhibits bone growth in children, teratogenic, steatosis and hepatotoxicity.
 > - **Doxycycline is the preferred tetracycline in most cases** due to convenient BID dosing, and lack of food-drug interactions.

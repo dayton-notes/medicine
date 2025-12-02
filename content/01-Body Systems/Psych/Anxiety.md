@@ -21,7 +21,7 @@ Abrupt surge of intense fear or intense discomfort that reaches a peak within mi
 - Trembling or shaking
 - Sensations of shortness of breath or smothering
 - Feeling of choking
-- Chest pain or discomfort
+- [[Chest pain]] or discomfort
 - Nausea or abdominal distress
 - Feeling dizzy, unsteady, lightheaded, or faint
 - Derealization (feelings of unreality) or depersonalization (being detached from oneself)

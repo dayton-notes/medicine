@@ -16,4 +16,5 @@
 - 1g IV raises Mg .1
 
 #### Sodium Repletion
-- 
+- No more than 0.5meq/hour over 24 hours (12meq/day)
+- Calculate!! 

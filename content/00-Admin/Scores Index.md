@@ -7,7 +7,7 @@
 | HAS-BLED              | Major-bleed risk while on anticoagulation         |
 | TIMI Risk (UA/NSTEMI) | 14-day ischemic-event risk in [[ACS]]                 |
 | GRACE [[ACS]]             | In-hospital & 6-month mortality after [[ACS]]         |
-| HEART                 | MACE risk in undifferentiated chest pain          |
+| HEART                 | MACE risk in undifferentiated [[chest pain]]          |
 | PREVENT               | 10-year atherosclerotic CVD risk                  |
 | SYNTAX                | Coronary-lesion complexity (PCI vs CABG)          |
 

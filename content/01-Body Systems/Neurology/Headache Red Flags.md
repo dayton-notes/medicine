@@ -25,7 +25,7 @@ Headache in setting of:
 - Cancer
 - Immunosuppression
 - [Seizure](https://wikem.org/wiki/Seizure_\(peds\) "Seizure (peds)")
-- [Syncope](https://wikem.org/wiki/Syncope "Syncope")
+- [Syncope](https://wikem.org/wiki/Syncope)
 - [Trauma](https://wikem.org/wiki/Trauma "Trauma")
 - [Altered mental status](https://wikem.org/wiki/Altered_mental_status "Altered mental status")
 - Systemic illness ([fever](https://wikem.org/wiki/Fever "Fever"), stiff neck, rash)

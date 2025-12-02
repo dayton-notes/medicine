@@ -1,3 +1,17 @@
+### Resources
+
+**Safety Planning**
+[Stanley Brown safety planning tool](https://suicidesafetyplan.com/forms/) (Access tool template [here](https://bgg.11b.myftpupload.com/wp-content/uploads/2021/08/Stanley-Brown-Safety-Plan-8-6-21.pdf) and mobile app [here](https://apps.apple.com/us/app/stanley-brown-safety-plan/id695122998))
+[Virtual Hope Box](https://www.my-therappy.co.uk/app/virtual-hope-box)
+
+**Other**
+[988 Suicide and Crisis Lifeline](https://988lifeline.org/) - Dial 988 for phone, text or chat
+[Crisis Text Line](https://www.crisistextline.org/) text “talk” to 741 741
+Suicide Prevention: [What to do when someone is at risk](https://afsp.org/what-to-do-when-someone-is-at-risk)
+[Suicide Prevention Resource Center](https://sprc.org/)
+
+**Veteran**
+
 
 ### Questions for Assessing Suicidality
 

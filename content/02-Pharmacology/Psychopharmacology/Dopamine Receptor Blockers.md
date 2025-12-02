@@ -8,7 +8,7 @@ aliases:
 Think dopamine when:
 - Extrapyramidal Symptoms
 - Gynecomastia / Hyperprolactimemia
-- Antipsychotics (FGA/SGA)
+- [[Antipsychotics]] ([[Antipsychotics|FGA]]/[[Antipsychotics|SGA]])
 - [[Neuroleptic Malignant Syndrome]]
 
 ### Dopamine
@@ -27,7 +27,7 @@ Think dopamine when:
 EPS is caused by a relative deficiency of dopamine and an excess of
 acetylcholine in the nigrostriatal pathway.
 
-This explains why anticholinergic medications such as benztropine (Cogentin) and diphenhydramine can quickly alleviate dystonia. Some of the newer antipsychotics are likely
+This explains why anticholinergic medications such as benztropine (Cogentin) and diphenhydramine can quickly alleviate dystonia. Some of the newer [[antipsychotics]] are likely
 to cause akathisia (restlessness). 
 
 Common / unique EPS med / symptom combos:

@@ -40,7 +40,7 @@ Diagnostics:
 
 | Diagnosis              | ED treatment                                                                             | Definitive treatment                                    |
 | ---------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[ACS]]/ STEMI             | Nitroglycerin, aspirin, heparin, Dual antiplatelet therapy (ex. Tigrelacor, clopidogrel) | PCI w/ stenting or lytic therapy                        |
+| [[ACS]]/ STEMI         | Nitroglycerin, aspirin, heparin, Dual antiplatelet therapy (ex. Tigrelacor, clopidogrel) | PCI w/ stenting or lytic therapy                        |
 | PE                     | Heparin/Lovenox/DOACs/ TPA                                                               | Anticoagulation, thrombolysis, embolectomy              |
 | Aortic Dissection      | Pain control, BP control (labetalol ivp or esmolol drip)                                 | Surgery for Type A versus medical management for Type B |
 | Tension Pneumothorax   | Needle Decompression / Chest tube                                                        | Chest tube management, Pleurodesis                      |

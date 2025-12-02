@@ -2,6 +2,7 @@
 aliases:
   - Sbo
   - SBO
+  - Bowel Obstruction
 ---
 ---
 ### quick reference
