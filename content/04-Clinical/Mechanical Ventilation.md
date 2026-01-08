@@ -62,7 +62,26 @@ Volume Control
 **Tidal Volume:** what volume (measured in cc) is being delivered per breath. SET in volume control modes, VARIABLE in pressure control/support modes. 
 **Pressure Support:** How much driving pressure you are giving a patient to assist inspiration. SET in pressure control/support modes. 
 **PEEP:** Positive End Expiratory Pressure. This is how much positive pressure the ventilator will still provide during exhalation (the ‘minimum’ pressure that the patient will experience).
-Inspiratory Time: length of time spent inhaling. Adjust to maintain at least 1:2 inspiratory:expiratory ratio, and ensure patient is reaching 0 on inspiration and expiration to avoid stacking breaths 
+**Inspiratory Time:** length of time spent inhaling. Adjust to maintain at least 1:2 inspiratory:expiratory ratio, and ensure patient is reaching 0 on inspiration and expiration to avoid stacking breaths 
+
+ #### **All Terminology:**
+
+- **Respiratory Cycle:** One full inspiration and expiration
+- **Respiratory Rate (f):** Breaths per minute
+- **Peak Inspiratory pressure (PIP):** The maximum airway pressure reached during inspiration.  In pressure control modes, this is the manipulated variable to control how much gas is delivered.
+- **Tidal Volume (Vt):** The volume of each breath.  In volume control modes, this is the manipulated variable to control how much gas is delivered.
+- **Positive End Expiratory Pressure (PEEP):** Continuous vent pressure applied to the airway, in order to keep alveoli open.
+- **Airway pressure (Paw):** Instantaneous pressure in the airway (varies during respiratory cycle).
+- **Alveolar pressure (Palv):** Instantaneous pressure in the alveoli.
+- **Compliance (C):** How much pressure is required to push a set volume of air into the lungs.  Alternatively, how much lung volume changes when you move between two set pressures.
+- **Plateau pressure (Pplat):** The maximum pressure seen by the alveoli during inspiration.  Determined by Compliance and Tidal Volume.
+- **Airway Resistance (RAW):** How much the airways resist flow.
+- **Inspiratory/Expiratory flow:** Measured in liters per minute, determined by airway resistance and the difference between Paw and Palv.
+- **Inspiratory Time (I-time)**: The time the vent takes to deliver a breath
+- **Expiratory Time (E-time):** The time it takes to go from the end of one inspiration to the start of another.  In other words, how long the vent allows the patient to exhale.
+- **Inspiratory to expiratory ratio (I:E ratio):** Ratio of the time spent during inspiration to the time spent during expiration.
+- **Fraction of Inspired Oxygen (FiO2):** What percent of the delivered gas is oxygen.  Room air has an FiO2 of 21%.
+- **Minute Volume (MV):** Total amount of gas moved per minute
 
 **Typical respiratory rates for age are set as follows**:
 

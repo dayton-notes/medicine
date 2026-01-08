@@ -4,7 +4,7 @@ aliases:
   - SGA
 ---
 ---
-
+See also: [[Psychosis]]
 ### Options
 
 

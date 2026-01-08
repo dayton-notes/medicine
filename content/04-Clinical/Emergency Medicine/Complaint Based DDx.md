@@ -41,7 +41,7 @@
 - [[Meningitis]]
 - Temporal arteritis (in older adults)
 - Increased [[TBI|ICP]]
-- Hypertensive Emergency
+- [[Hypertensive Emergency]]
 
 #### **Back pain**
 - Musculoskeletal strain

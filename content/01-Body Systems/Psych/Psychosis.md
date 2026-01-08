@@ -1,8 +1,11 @@
 ---
 aliases:
   - Schizophrenia
+  - Schizo
 ---
 ---
+See also: [[Antipsychotics]]
+All psych: [[1. Psych Interview Reference]]
 ### Core Clinical Features of Psychosis
 
 | Symptom                         | Description                                                                                             | Notes                                                               |
@@ -36,6 +39,3 @@ aliases:
 **Schizoaffective Disorder:** 
 - Major mood episode + psychotic symptoms; at least 2 weeks of psychotic symptoms in the absence of a major mood episode
 
-### Treatment
-
-[[Antipsychotics]]

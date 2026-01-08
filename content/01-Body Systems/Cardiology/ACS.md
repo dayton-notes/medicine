@@ -4,6 +4,8 @@ aliases:
 ---
 ### quick reference
 
+[OMI Guide](https://omiguide.org/)
+
 Scores:
 [HEART Score for Major Cardiac Events](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 [GRACE ACS Risk and Mortality Calculator](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator)
