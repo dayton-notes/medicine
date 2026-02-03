@@ -4,6 +4,9 @@ aliases:
   - high blood pressure
 ---
 ---
+### Overview
+Intended use: Primary care
+Summary of relevant guidelines and literature
 ### Definitions
 
 |              | Systolic         |     | Diastolic      |
@@ -12,36 +15,60 @@ aliases:
 | **Elevated** | 120 to 129 mm Hg | AND | < 80 mm Hg     |
 | **Stage 1**  | 130 to 139 mm Hg | OR  | 80 to 89 mm Hg |
 | **Stage 2**  | ≥ 140 mm Hg      | OR  | ≥ 90 mm Hg     |
-**Note**: **_The phrase hypertensive urgency is no longer in use–it’s severe hypertension now–and PRN oral or IV antihypertensives should not be used to acutely lower blood pressure_**
-See:
-[[Hypertensive Emergency]]
+**Note**: _The phrase hypertensive urgency is no longer in use (asymptomatic elevated BP?) and PRN oral or IV antihypertensives should not be used to acutely lower blood pressure_
+See: [[Hypertensive Emergency]]
 
 For hypertension in pregnancy, see: 
-### Workup
-How to measure:
-![[Pasted image 20260202193702.png]]
-In office: generally crap, if HTN suspected encourage home confirmation
-Home: 
-- patient obtains two readings in the morning and two in the evening 3-7 days a week
-- approved home devices: [Validate BP](https://www.validatebp.org/)
 
-Types:
-Primary Hypertension
-[[Secondary Hypertension]]
-- suspect when stage 2, treatment resistant, sudden onset HTN, 
+**Types**:
+Primary 
+White Coat
+Masked 
+[[Secondary Hypertension]] (5-25% of patients!)
+- suspect when stage 2, treatment resistant, sudden onset HTN
 - DDx (common):
-	- primary aldosteronism
-	- CKD
-	- Obstructive Sleep Apnea (OSA)
-	- renal artery stenosis
-	- medications/substances
+	- Obstructive Sleep Apnea (OSA) (25-50%)
+	- primary aldosteronism (5-25%)
+	- CKD (14%)
+	- renal artery stenosis (0.1-5%)
+	- medications/substances (2-20%)
 		- alcohol
 		- caffeine
 		- decongestants (phenylephrine, etc)
 		- herbals (st. johns wort, etc)
+		- Black licorice
 		- NSAIDs / APAP
 		- recreational drugs / sympathomimetics
 		- and many more
+### Workup
+1. Recommend home/ambulatory monitoring after 1 in-office HTN reading
+2. Diagnose and treat after:
+	1. home confirmation  
+	2. 2 consecutive in-office HTN readings
+	3. initial reading stage 2 or higher
+
+Diagnostics:
+- CBC
+- BMP
+- A1c
+- Lipid Profile
+- TSH
+- UA
+- Urine albumin-to-creatinine ratio; urine protein-to-creatinine ratio
+- EKG
+- IF STAGE 2 or suspected: serum aldosterone and renin
+	- aldosterone-renin ratio >30
+	- [primary-aldosteronism.pdf](https://www.aafp.org/pubs/afp/issues/2023/0900/primary-aldosteronism.pdf)
+	- Patients should have unrestricted salt intake, serum potassium in the normal range (to avoid false-negative testing), and ideally, MRA (eg, spironolactone or eplerenone) withdrawn for at least 4 weeks before testing
+
+
+#### Measurement
+**In-office:** generally crap, if HTN suspected encourage ambulatory or home confirmation
+![[Pasted image 20260203075711.png]]
+![[Pasted image 20260202193702.png]]
+**Home**: 
+- patient obtains two readings in the morning and two in the evening 3-7 days a week
+- approved home devices: [Validate BP](https://www.validatebp.org/)
 
 ### Treatment
 
@@ -60,9 +87,15 @@ Pearls:
 - Once daily dosing recommended
 - stay at or below median dose 
 
+Favorites:
+- ARB>ACEi
+- olmesartan>other ARB
+- chlorthalidone>HCTZ
+- reserve BB for compelling indications (HF, prior MI, etc)
+
 **Options:**
-Stage 2 HTN: 2 antihypertensives, ideally fixed-dose combination pill
-Stage 1 HTN: 1 antihypertensive
+Stage 2 HTN: two antihypertensives, ideally fixed-dose combination pill
+Stage 1 HTN: single antihypertensive 
 2 drug combos: 
 - ACEi + HCTZ
 - ACEi + CCB
@@ -81,6 +114,7 @@ HFpEF: MRA, ARNi/ARB/ACEi
 - Exercise
 - Zero alcohol
 - Weight loss
+- Dietary restriction
 - Sodium restriction / Potassium increase (KCL salt)
 
 ### Important References

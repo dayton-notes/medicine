@@ -6,7 +6,11 @@ aliases:
 ### Guidelines / Resources
 [The Management of Elevated Blood Pressure in the Acute Care Setting: A Scientific Statement From the American Heart Association | Hypertension](https://www.ahajournals.org/doi/10.1161/HYP.0000000000000238)
 
+[2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines | Circulation](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001356#sec-10-2)
+
 ### Quick Reference
+
+Definition: severe elevations in BP (>180/120 mm Hg) associated with evidence of acute target organ damage
 
 PE: 
 - comparing bilateral pulses

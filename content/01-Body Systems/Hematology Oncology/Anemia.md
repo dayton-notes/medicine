@@ -12,7 +12,7 @@ Lab Value Definition:
 Transfusion Criteria
 	 <8 - normal adults
 	 <7 hospitalized 
-
+![[Pasted image 20260203074953.png]]
 ---
 ### pathophysiology
 
