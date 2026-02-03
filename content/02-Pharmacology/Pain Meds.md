@@ -71,7 +71,6 @@ IV:
 CYP2D6 is required to activate hydrocodone, tramadol, codeine, and oxycodone
 
 CYP2D6
-Not in
 ### Non-Opioid
 
 Guidelines: [Visio-clin-management-post-op-pain.vsd](https://www.mdanderson.org/documents/for-physicians/algorithms/clinical-management/clin-management-post-op-pain-web-algorithm.pdf)

@@ -2,6 +2,7 @@
 aliases:
   - Vent
   - Ventilator
+  - DOPES
 ---
 ---
 
@@ -14,13 +15,26 @@ aliases:
 | Obstructive (intubation will generally make it worse)             | A/C  | 6                         | 5-8                  | 1:4 LONG | 0-5      | 100%     |
 | [Hypovolemic](https://wikem.org/wiki/Hypovolemic "Hypovolemic")   | A/C  | 8                         | 10-12                | 1:2      | LOW      | 100%     |
 
+**Troubleshooting**
+
+D: displaced/dislodged tube
+O: Obstruction
+P: Pneumothorax
+E: Equipment Failure
+S: Stacked breaths
+
+Bagging trial - attempt to resaturate via BVM
+- low resistance / minimal chest rise = likely displacement
+- high resistance: obstruction / stacked breaths (esp. in obstructive lung diseases)
+
+Direct Laryngoscopy:  
 ### Overview
 
 **3 Major Indications** for  / Intubation/Mechanical Ventilation
 - failure to **oxygenate** (hypoxemic respiratory failure)
 	- ARDS, Pneumonia (V/Q mismatch), etc.
 - failure to **ventilate** (hypercarbic respiratory failure)
-	- seizure, asthma, drug ingestion, etc
+	- [[Seizure]], asthma, drug ingestion, etc
 - inability to **protect airway**
 	- GCS<8, AMS, lack of cough/gag reflex
 

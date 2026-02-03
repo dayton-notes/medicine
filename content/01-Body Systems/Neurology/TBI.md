@@ -21,31 +21,42 @@ TBI brains lose vascular autoregulation - small shifts in CO2 and O2 can drastic
   
 ### ICP Monitoring
 
+Ultrasound: Optic Nerve Sheath >5mm
+[A Neurointensivist’s Approach to POCUS for Increased ICP — TPA](https://www.thepocusatlas.com/new-blog/onsd-for-increased-icp)
+[Ocular Ultrasound Made Easy: Step-By-Step Guide - POCUS 101](https://www.pocus101.com/ocular-ultrasound-made-easy-step-by-step-guide/#Evaluation_of_Elevated_Intracranial_PressurePapilledema)
+
 CPP = MAP-ICP
 
 2 Measurement methods
 1. Parenchymal (Codman) - local measurement, drifts over time (good for ~5 days)
 2. Ventricular (EVD) - drains CSF and also measures direct pressure 
 
+EVD Waveform:
 ![External ventricular drains (EVDs) are one of the most common procedures in  neurosurgery… And having to troubleshoot said EVDs that stop working (usua  - Thread from Kristen Scheitler, MD @k_scheitler - Rattibha](https://ci3.googleusercontent.com/meips/ADKq_NZwUS5WUVLDeZ4iRj9qqFtV3R0LYMMCSXLbQtFa8Ebm7RU5oOGaqF8JMrh1wZzEmclLGsxLHk4pPmIEmeRcTLafp_63lQ=s0-d-e1-ft#https://pbs.twimg.com/media/FrTcl8vXgAEzj80.jpg)
 
 ### Treatment
 
-ICP Reduction
 ICP goal: <20mmHg
 
-#### Medications
-- Hypertonic saline 3% (5mL/kg)
+**Good Supportive Care**
+- Proper Sedation
+- Proper Pain Control
+- Head of Bed 30-45 degrees
+**Medications**
+- Hypertonic saline 3% (5mL/kg) or 23.4% (central line only)
 - Mannitol (0.5-1.0 mg/kg)
-Craniotomy
+**Craniotomy**
 - Increases survivability, but much better neuro outcomes in kids
-Hyperventilation (CO2 30-40)
+**Hyperventilation (CO2 30-40)**
 - Short periods only (will reduce overall CPP and lead to anoxia)
 
+**Last Ditch Efforts:**
+Paralysis
+Phenobarb Coma
 #### Supportive
-- Seizure Prophylaxis
+- [[Seizure]] Prophylaxis
 	- Keppra 
-    - Versed Drip (50% efficacy of phenobarbital for seizure prevention, no difference in mortality)
+    - Versed Drip (50% efficacy of phenobarbital for [[Seizure]] prevention, no difference in mortality)
     - Phenobarbital coma (most effective, 30 hour t1/2 prolongs neuro testing)
 - Sedation
 	- Pick your fave. Beware of Propofol infusion syndrome in kids - <24hrs and low doses are best. 

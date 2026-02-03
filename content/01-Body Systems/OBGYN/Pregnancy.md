@@ -77,7 +77,7 @@ Severe Features
 - BP >160 / >110
 - Thrombocytopenia
 - HELLP
-- Seizure (eclampsia!)
+- [[Seizure]] (eclampsia!)
 
 #### workup
 

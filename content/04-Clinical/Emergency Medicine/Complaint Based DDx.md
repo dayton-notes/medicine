@@ -7,7 +7,8 @@
 - Bowel obstruction
 - [[Constipation]]
 - [[Pancreatitis]]
-#### [[Chest pain]]
+- GERD
+#### **[[Chest pain]]**
 - Acute coronary syndrome ([[ACS]])
 - [[Pulmonary embolism]]
 - Aortic dissection
@@ -16,6 +17,7 @@
 - [[Pleural Effusion]]
 - Gastroesophageal reflux disease (GERD)
 - Cough
+- Anxiety
 
 #### **Shortness of breath**
 - Congestive heart failure / Flash Pulmonary Edema
@@ -25,6 +27,8 @@
 - Pulmonary embolism
 - ARDS
 - [[DKA]]
+- Vocal Cord Dysfunction
+- Anxiety
 #### **Cough**
 - Viral URI
 - Acute Bronchitis
@@ -49,25 +53,29 @@
 - Vertebral fracture
 - Spinal epidural abscess
 - Renal colic (nephrolithiasis)
-
-#### **Cough**
-- Viral URI
-- Acute Bronchitis
-- [[CAP]]
-- COPD / COPD exacerbation
-- UACS
-- PE
-- Heart Failure / Pulmonary Edema
+- Pancreatitis
+- Trauma
 
 #### **Nausea / Vomiting**
 - Acute Viral / Bacterial Gastroenteritis / food poisoning
 - [[Cannabinoid Hyperemesis Syndrome]]
 - Meds/Toxins
-- [[Pregnancy]]-related
+- [[Pregnancy]]-related (hyperemesis gravidarum)
 - Gastritis / [[Peptic Ulcer Disease|PUD]]
 - [[Vertigo]]
 - [[Small Bowel Obstruction|SBO]]
 - [[ACS]]
+
+#### **Altered Mental Status**
+- Sepsis / Infection
+- DKA / HHS
+- Hypoglycemia
+- Electrolyte Abnormalities
+- Delirium
+- Dementia
+- Stroke
+- Ingestion / Drug Use
+- Toxidrome
 
 #### **Floppy baby**
 - Tickborne disease

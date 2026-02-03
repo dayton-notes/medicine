@@ -4,7 +4,7 @@
     
 - **Nutrition:** Patients should follow a healthy, balanced diet, aiming for BMI-adjusted weight gain: 25 to 35 pounds for BMI 20 to 25; 10 to 15 pounds for a BMI >26; 35 to 45 pounds for a BMI <19.8. They should also be counseled to avoid uncooked food, unpasteurized dairy products, mercury-containing fish, and excess vitamin A. A daily prenatal vitamin with at least 400 μg of folic acid can help prevent neural tube defects.
     
-- **Drug/alcohol cessation:** Alcohol use is associated with growth restriction, small-for-gestational-age babies, fetal alcohol syndrome, and other effects of fetal exposure to alcohol. Some illicit drugs are associated with preterm birth, poor growth, and neonatal abstinence syndrome. Substance use treatment can be highly effective and should be initiated promptly. Opioid use disorders should be treated with methadone or buprenorphine.
+- **Drug/alcohol cessation:** Alcohol use is associated with growth restriction, small-for-gestational-age babies, fetal alcohol syndrome, and other effects of fetal exposure to alcohol. Some illicit drugs are associated with preterm birth, poor growth, and neonatal abstinence syndrome. Substance use treatment can be highly effective and should be initiated promptly. Opioid use disorders should be treated with [[Methadone]] or [[Buprenorphine]].
 	
 - **Tobacco cessation:** Smoking during pregnancy is associated with low birth weight, prematurity, and an ↑ risk of miscarriage and thromboembolic events. Nicotine patches or gum may be used to aid in tobacco cessation; the use of bupropion is not well studied in pregnancy.
 	

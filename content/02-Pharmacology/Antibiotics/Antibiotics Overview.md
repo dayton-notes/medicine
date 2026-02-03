@@ -25,7 +25,9 @@
 | **Pseudomonas Coverage** | **Piperacillin/tazobactam<br>Ceftazidime<br>Cefepime<br>Aztreonam (+/-)<br>Ciprofloxacin (+/-)<br>Meropenem<br>Imipenem<br>Ceftolozane/tazobactam (Zerbaxa)<br>Ceftazidime/avibactam (Avycaz)<br>Meropenem/Vaborbactam** |
 | **VRE Coverage**         | **Daptomycin<br>Linezolid<br>Ampicillin**                                                                                                                                                                                |
 
-
+### Clinical pearls
+- if GNR (esp. e. coli, klebsiella, proteus)is resistant to ceftriaxone, beware of ESBL organism! Avoid beta-lactams. 
+- 
 
 ## Complete Overview
 
@@ -179,7 +181,7 @@ Spectrum (General Rules):
 > - Great penetration virtually everywhere, including CSF  .
 > - **Ertapenem does NOT cover Pseudomonas**, but does still cover ESBL (main advantage is convenient once/day dosing - great outpatient IV drug).  **Other differences of Ertapenem (vs other carbapenems) is lack of activity vs Acinetobacter and Enterococci.**
 > - Doripenem – newest carbapenem, main theoretical advantage = increased in vitro potency against Pseudomonas, and lower likelihood of development of resistance in vitro (clinical benefit not yet demonstrated)
-> - Main additional side effect = Lower seizure threshold – greatest risk w/ Imipenem (esp with renal failure), less w/ Meropenem.
+> - Main additional side effect = Lower [[Seizure]] threshold – greatest risk w/ Imipenem (esp with renal failure), less w/ Meropenem.
 
 **E. MONOBACTAM - Aztreonam**
 

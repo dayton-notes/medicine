@@ -1,5 +1,7 @@
 ---
 aliases:
+  - IDA
+  - IDWA
 ---
 ---
 ### quick reference
@@ -14,26 +16,25 @@ Transfusion Criteria
 ---
 ### pathophysiology
 
-Microcytic
+	
+
+---
+### etiology  
+**Microcytic**
 - IDA
 - Thalassemias
 - Lead/copper
-Macrocytic
+**Macrocytic**
 - Hypothyroidism
 - Alcohol
 - Reticulocytosis (increased avg. size)
 - Meds ()
-Megaloblastic (w/ hypersegmented PMNs)
+**Megaloblastic (w/ hypersegmented PMNs)**
 - B12/Folate deficiency
 - Meds that impair DNA synthesis
 	- methotrexate
 	- TMP-SMX
 	- Sulfasalazine
-	
-
----
-### epidemiology / etiology  
-- 
 
 ---
 ### clinical features
@@ -59,6 +60,7 @@ Megaloblastic (w/ hypersegmented PMNs)
 ### diagnosis
 Iron Deficiency Anemia
 	low iron/ferritin, high TIBC, low TSAT
+[[Iron Deficiency without Anemia]]
 [[Thalassemia]]
 	*** look for when degree of microcytosis outstrips the degree of [[Anemia]] (Hgb 10, MCV 68)
 

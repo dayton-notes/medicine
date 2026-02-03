@@ -6,7 +6,7 @@
 	-Prodrome! Sweat, flush, nausea, etc
 - Orthostatic
 	- Meds: a blockers, diuretics, antihypertensives
-- Seizure
+- [[Seizure]]
 	- don’t wake up immediately normal (postictal)
 
 ### don’t miss
