@@ -1,12 +1,12 @@
 ---
-title: welcome 
+title: welcome to my humble abode
 description: 
 ---
 
-use the searchbar or the explorer index to the left to navigate notes.
+Start typing in the searchbar to the left to navigate notes. Use at your own risk. 
 
 
-
+![[Pasted image 20260204130826.png]]
 
 
 
