@@ -9,6 +9,8 @@ export default (() => {
         <p>enjoy :)
         </p>
         <p>updated sometime in {year}</p>
+        <p>leave a [[comment]] here!
+        </p>
       </footer>
     )
   }
