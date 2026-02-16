@@ -9,7 +9,7 @@ aliases:
 ### Quick reference
 Prophylaxis
 - only within 48hrs
-- Oseltamivir-7 days once daily / Baloxivir- once
+- Oseltamivir-7-10 days once daily / Baloxivir- once
 
 Treatment
 - give within 48hrs of onset or no effect
