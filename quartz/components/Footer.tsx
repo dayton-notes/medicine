@@ -6,7 +6,7 @@ export default (() => {
     const year = new Date().getFullYear()
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>leave a<a href="https://dayton-notes.github.io/medicine/00-Admin/Comment">comment</a> here! enjoy :)
+        <p>leave a <a href="https://dayton-notes.github.io/medicine/00-Admin/Comments">comment</a> here! enjoy :)
         </p>
         <p>updated sometime in {year}</p>
       </footer>
