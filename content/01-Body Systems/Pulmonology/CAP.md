@@ -2,10 +2,17 @@
 aliases:
   - Pneumonia
   - Community Acquired Pneumonia
-  - CAP
 ---
 ### quick reference
-
+```
+<iframe 
+    src="[CURB-65](https://www.mdcalc.com/calc/324/curb-65-score-pneumonia-severity)" 
+    width="100%" 
+    height="600px" 
+    frameborder="0" 
+    scrolling="yes">
+</iframe>
+```
 [CURB-65 Score for Pneumonia Severity](https://www.mdcalc.com/calc/324/curb-65-score-pneumonia-severity)
 
 [PSI/PORT Score: Pneumonia Severity Index for CAP](https://www.mdcalc.com/calc/33/psi-port-score-pneumonia-severity-index-cap)
