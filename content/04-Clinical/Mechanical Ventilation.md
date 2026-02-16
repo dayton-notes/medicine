@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Vent
   - Ventilator
   - DOPES
 ---

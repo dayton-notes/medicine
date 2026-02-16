@@ -1,6 +1,6 @@
 ---
-title: welcome 
-description: 
+title: welcome👋
+description: dayton.notes
 ---
 Fishmouth!
 ![[gif.gif]]

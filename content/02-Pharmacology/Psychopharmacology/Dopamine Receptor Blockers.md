@@ -3,11 +3,12 @@ aliases:
   - D2
   - dopaminergic
   - EPS
+  - Extrapyramidal
 ---
 ### Quick Reference
 Think dopamine when:
 - Extrapyramidal Symptoms
-- Gynecomastia / Hyperprolactimemia
+- Gynecomastia / Hyperprolactinemia
 - [[Antipsychotics]] ([[Antipsychotics|FGA]]/[[Antipsychotics|SGA]])
 - [[Neuroleptic Malignant Syndrome]]
 

@@ -53,7 +53,7 @@ also look for other common features: 
 ---
 ### workup
 Initial:
-- [[EKG]], vitals, telemetry, 2x IV access
+- [[EKG]], vitals, telemetry, 2x IV access 
 
 Diagnostics:
 - CBC
@@ -142,6 +142,4 @@ If unlikely to achieve PCI within 120 min:
 | Oral anticoagulant therapy                                                                                                                                                                                                                                      |
 ##### reperfusion algorithm
 ![[Pasted image 20250804155746.png]]
-
----
 
