@@ -6,11 +6,9 @@ export default (() => {
     const year = new Date().getFullYear()
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>enjoy :)
+        <p>leave a [[comment]] here! enjoy :)
         </p>
         <p>updated sometime in {year}</p>
-        <p>leave a [[comment]] here!
-        </p>
       </footer>
     )
   }
