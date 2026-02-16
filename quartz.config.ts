@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "dayton.notes",
+    pageTitle: "dtn.notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter", websiteId:'https://daytonnotes.goatcounter.com/'
     },
     locale: "en-US",
     baseUrl: "dayton-notes.github.io/medicine",
@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Cabin",
+        body: "Cabin",
         code: "IBM Plex Mono",
       },
       colors: {
