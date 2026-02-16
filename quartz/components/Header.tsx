@@ -11,11 +11,14 @@ header {
   align-items: center;
   margin: 2rem 0;
   gap: 1.5rem;
+  flex-wrap: nowrap;
 }
 
 header h1 {
   margin: 0;
   flex: auto;
+  font-size: clamp(1.25rem, 6vw, 2rem); /* scales font between min/max depending on viewport */
+  white-space: nowrap; /* prevent the title from wrapping */
 }
 `
 
