@@ -9,7 +9,7 @@ aliases:
 ---
 
 ---
-### quick reference
+### Quick Reference
 
 **Clinical Evaluation of Metabolic Acidosis:**
 1. Determine Anion Gap
@@ -51,7 +51,7 @@ Predicted PaCO2 = HCO3- + 15.
 ![[Pasted image 20250618075427.png]]
 
 ---
-### patho / physiology
+### Patho / Physiology
 
 #### Systems
 **Bicarbonate Buffer System (Le Chatlier's Principle)**
@@ -109,8 +109,11 @@ Full DDx: GOLDMARK and/or MUDPILES
 	- Hyperlactatemia
 		- ~0.5-2 mM is normal.
 		- 2-4 mM is mild/moderately elevated.
-		- >4 mM is unequivocally elevated. This is worrisome for an occult shock state or serious illness
-- D-Lactate
+		- over 4 mM is unequivocally elevated. This is worrisome for an occult shock state or serious illness
+- **D-Lactate**
+	- D-lactic acidosis is very rare, but D-lactic acidosis may be more common than generally believed and should be looked for in a case of metabolic acidosis in which the cause of acidosis is not apparent. 
+	- The clinical presentation of D-lactic acidosis is characterized by episodes of encephalopathy and metabolic acidosis. 
+	- The entity should be considered as a diagnosis in a patient who presents with metabolic acidosis accompanied by high anion gap, normal lactate level, negative ketones, history of short bowel syndrome or malabsorption, and characteristic neurologic manifestations (ataxia, slurred speech, confusion)
 - **Methanol**
 	- consumes Kreb’s cycle enzymes and results in a buildup of formic acid.
 - **Aspirin (Salicylates**) 
@@ -161,7 +164,8 @@ Non-anion gap metabolic acidosis is caused by the GI or Renal loss of HCO3-.
     - Resolving diabetic ketoacidosis
     - Ureteroileostomy or ureterosigmoidostomy.
     - Chronic hyperventilation (extremely rare).
-#### Low Anion Gap ??
+#### Low Anion Gap ?? (<8)
+**Causes:**
 Increased Chloride
 - Hypertriglyceridemia
 - Bromide

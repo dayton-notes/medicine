@@ -1,9 +1,10 @@
-
-
 ---
+aliases:
+---
+--- 
 Quick tip - 1. Mild thalassemia often masquerades as iron deficiency: Microcytosis with normal or elevated RBCs and iron studies should prompt evaluation for thalassemia, not empiric iron therapy.
 
-IDA vs Thal Calc:
+IDA vs Thal Calculator
 [Mentzer Index](https://www.mdcalc.com/calc/10534/mentzer-index)
 
 
