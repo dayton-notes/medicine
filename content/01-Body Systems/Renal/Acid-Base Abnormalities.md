@@ -33,6 +33,7 @@ aliases:
     - **Isopropyl alcohol:** hand sanitizer and rubbing alcohol
     - **Ethanol:** good ol fashioned alcohol
     Source: [Diagnostics - Toxic Alcohols — Taming the SRU](https://www.tamingthesru.com/blog/diagnostics/toxic-alcohols)
+
 **NAGMA** -> consider ordering urine electrolytes (Na, K, Cl)
 - [Urine Anion Gap](https://www.mdcalc.com/calc/2045/urine-anion-gap) = (UNa + UK) - UCl
 	- Positive gap: RTA
@@ -88,6 +89,7 @@ Kidney Compensatory Mechanisms
 - Respiratory acidosis -> retain HCO3 -> raise pH (compensatory metabolic alkalosis)
 - Respiratory Alkalosis -> excrete HCO3 -> lower pH (compensatory metabolic acidosis)
 ![[Pasted image 20260308102255.png]]
+
 **A quick note about anion gap and acidosis:**
 - The mean anion gap is 8-12 mEq/L . The standard deviation of an anion gap is ±2 mEq/L. An anion gap of 20 is ~4-5 SD above the mean - i.e. 99.999% chance they have an AGMA. No need to wait for blood gases to diagnose.
 ### Primary Metabolic Acid-Base Derangements
@@ -104,6 +106,7 @@ Toxic ingestion (toxic alcohols, APAP, etc.)
 Salicylates
 
 **Full DDx: GOLDMARK and/or MUDPILES**
+
 **GOLDMARK**
 - **Glycols (Ethanol and ethylene glycol)**
 	- cause anion gap by consuming Kreb’s cycle intermediaries, leading to buildup of organic acids (similar to methanol). You can easily screen for any alcohol intoxication with an osmolar gap.
@@ -132,6 +135,7 @@ Salicylates
 	- When someone’s glomerular filtration rate falls below 15 mL/min, non-organic acids that are filtered by the kidney (which we usually don’t measure) are retained, such as phosphites, sulfites, and nitrites. These are probably involved in the pathophysiology behind uremic encephalitis and pericarditis. Urea gets a bad rap.
 - **Ketoacidosis (DKA, etc.)** 
 	- lactic acid and ketones (ketones are acids, btw).
+
 **MUDPILES (covered above except iron / isoniazid)**
 - **Iron**  
 	- multifactorial, including iron’s physiochemical effects; but fluid loss, cardiogenic shock, and hepatic failure leading to lactic acidosis contribute to the acidosis. 
@@ -161,7 +165,9 @@ Non-anion gap metabolic acidosis is caused by the GI or Renal loss of HCO3-.
 	- RTA just means that your kidney is excreting excess bicarbonate when it shouldn’t be (i.e. the renal tubules are not retaining bicarb, and are therefore *acidic*. This can be genetic or acquired (e.g., drugs such as tacrolimus). See below chart. 
 - **Diarrhea**
 	- GI loss of bicarb (pancreas!)
+
 **Full DDx: RTA vs. Non-RTA**
+
 **RTA**:
 ![[Pasted image 20250911090034.png]]
 
@@ -190,9 +196,11 @@ Non-anion gap metabolic acidosis is caused by the GI or Renal loss of HCO3-.
 - Hypertriglyceridemia
 - Bromide
 - Iodide
+
 **Decreased "Unmeasured Anions"**
 - Albumin
 - Phosphorus
+
 **Increased "Unmeasured Cations"**
 - Hyperkalemia
 - Hypercalcemia
