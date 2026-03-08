@@ -24,23 +24,32 @@ aliases:
 		- If the Δ Anion gap is much _lower_ than the Δ Bicarbonate, then this reveals a second process which is decreasing the bicarbonate. This indicates a combined anion gap metabolic acidosis plus a non-anion-gap metabolic acidosis.
 
 **AGMA** -> measure serum Osm -> [calculate Osm gap](https://www.mdcalc.com/calc/91/serum-osmolality-osmolarity)
-**NAGMA** -> Order urine electrolytes (Na, K, Cl)
+- You can easily screen for any alcohol intoxication with an osmolar gap.
+- Common Osmolar Gap AGMA culprits: 
+	- **Methanol**: present in windshield wiper fluid, paint, paint thinners, and wood stains, as well as other household and industrial agents
+	- **Ethylene glycol:** antifreeze, can also be found in several other substances, such as engine coolants and industrial solvents
+	- **Propylene glycol:** can be seen in patients receiving parenteral medications for which propylene glycol is used as a diluent, including diazepam, lorazepam, phenobarbital, phenytoin, and nitroglycerin
+    - **Diethylene glycol:** another industrial solvent
+    - **Isopropyl alcohol:** hand sanitizer and rubbing alcohol
+    - **Ethanol:** good ol fashioned alcohol
+    Source: [Diagnostics - Toxic Alcohols — Taming the SRU](https://www.tamingthesru.com/blog/diagnostics/toxic-alcohols)
+**NAGMA** -> consider ordering urine electrolytes (Na, K, Cl)
 - [Urine Anion Gap](https://www.mdcalc.com/calc/2045/urine-anion-gap) = (UNa + UK) - UCl
 	- Positive gap: RTA
 	- Negative gap: GI loss, IV Fluid
 
-**Bootleg Winter's Formula:**
+**Bootleg Winters' Formula:**
 pCO2 should = last 2 digits of pH if respiratory compensation is adequate
 - i.e. if pH is 7.15, pCO2 should be ~15
 - if pCO2 is higher, suspect additional respiratory acidosis
 - if pCO2 is lower, suspect additional respiratory alkalosis
 
-**Simplified Winter's Formula:**
+**Simplified Winters' Formula:**
 Predicted PaCO2 = HCO3- + 15. 
 - This apparently works for PaCO2 concentrations between 10-40.
 
-**Real [Winters' Formula](https://www.mdcalc.com/calc/117/winters-formula-metabolic-acidosis-compensation)
-1.5 x HCO3- + 8 (+/-2)
+**Real [Winters' Formula](https://www.mdcalc.com/calc/117/winters-formula-metabolic-acidosis-compensation)**
+1.5 x HCO3- + 8 (+/- 2)
 
 **Determining Prior Bicarb**
 - HCO3before = HCO3now + (AGnow - AGnormal)
@@ -81,9 +90,9 @@ Kidney Compensatory Mechanisms
 ![[Pasted image 20260308102255.png]]
 **A quick note about anion gap and acidosis:**
 - The mean anion gap is 8-12 mEq/L . The standard deviation of an anion gap is ±2 mEq/L. An anion gap of 20 is ~4-5 SD above the mean - i.e. 99.999% chance they have an AGMA. No need to wait for blood gases to diagnose.
-### Metabolic Acid-Base Derangements
+### Primary Metabolic Acid-Base Derangements
 #### Anion Balance: AGMA vs NAGMA
-**AGMA**
+##### **AGMA**
 Anion gap metabolic acidosis occurs when there is an accumulation of acids in the blood, leading to a decrease in pH via an increase in H+ and an increase in unmeasured serum anions (A-). 
 - Weak Acid: HA <-> H+ and A-
 
@@ -94,7 +103,8 @@ Lactate
 Toxic ingestion (toxic alcohols, APAP, etc.)
 Salicylates
 
-Full DDx: GOLDMARK and/or MUDPILES
+**Full DDx: GOLDMARK and/or MUDPILES**
+**GOLDMARK**
 - **Glycols (Ethanol and ethylene glycol)**
 	- cause anion gap by consuming Kreb’s cycle intermediaries, leading to buildup of organic acids (similar to methanol). You can easily screen for any alcohol intoxication with an osmolar gap.
 - **Oxoproline (Paracetamol/Acetaminophen/Tylenol)**
@@ -112,7 +122,7 @@ Full DDx: GOLDMARK and/or MUDPILES
 		- over 4 mM is unequivocally elevated. This is worrisome for an occult shock state or serious illness
 - **D-Lactate**
 	- D-lactic acidosis is very rare, but D-lactic acidosis may be more common than generally believed and should be looked for in a case of metabolic acidosis in which the cause of acidosis is not apparent. 
-	- The clinical presentation of D-lactic acidosis is characterized by episodes of encephalopathy and metabolic acidosis. 
+	- D-lactic acidosis arises from abnormal bacterial fermentation of carbohydrates in the gastrointestinal tract
 	- The entity should be considered as a diagnosis in a patient who presents with metabolic acidosis accompanied by high anion gap, normal lactate level, negative ketones, history of short bowel syndrome or malabsorption, and characteristic neurologic manifestations (ataxia, slurred speech, confusion)
 - **Methanol**
 	- consumes Kreb’s cycle enzymes and results in a buildup of formic acid.
@@ -122,12 +132,22 @@ Full DDx: GOLDMARK and/or MUDPILES
 	- When someone’s glomerular filtration rate falls below 15 mL/min, non-organic acids that are filtered by the kidney (which we usually don’t measure) are retained, such as phosphites, sulfites, and nitrites. These are probably involved in the pathophysiology behind uremic encephalitis and pericarditis. Urea gets a bad rap.
 - **Ketoacidosis (DKA, etc.)** 
 	- lactic acid and ketones (ketones are acids, btw).
+**MUDPILES (covered above except iron / isoniazid)**
 - **Iron**  
 	- multifactorial, including iron’s physiochemical effects; but fluid loss, cardiogenic shock, and hepatic failure leading to lactic acidosis contribute to the acidosis. 
 - **Isoniazid**
 	- inhibits the conversation of lactate to pyruvate by vitamin B6 depletion. Inborn errors of metabolism are unique.
 
-**NAGMA**
+##### **Osmolar Gap:** 
+- Methanol is metabolized to formic acid and presents with altered mental status (AMS), blurry vision, dilated pupils, and papilledema.
+- Ethylene glycol forms oxalic acid and can cause AMS, cranial nerve palsies, flank pain, hematuria, hypocalcemia with tetany, and calcium oxalate crystals (envelope shaped crystals) leading to acute kidney injury (AKI).
+- Propylene glycol is converted to lactic acid and may cause AKI and liver injury.
+- Diethylene glycol is metabolized to diglycolic acid and presents with AKI, nausea/vomiting, hepatitis, pancreatitis, neuropathy, AMS, and elevated lactate.
+- Isopropyl alcohol is converted to acetone and typically causes AMS, fruity breath, pancreatitis, and elevated lactate with a normal or mildly elevated anion gap.
+- Ethanol is metabolized to acetaldehyde and may result in ketoacidosis, lactic acidosis, and metabolic alkalosis due to vomiting.
+
+
+##### **NAGMA**
 Non-anion gap metabolic acidosis is caused by the GI or Renal loss of HCO3-. 
 - (removal of base rather than the addition of acid)
 - Results in equivalent accumulation of serum chloride
@@ -166,14 +186,14 @@ Non-anion gap metabolic acidosis is caused by the GI or Renal loss of HCO3-.
     - Chronic hyperventilation (extremely rare).
 #### Low Anion Gap ?? (<8)
 **Causes:**
-Increased Chloride
+**Increased Chloride**
 - Hypertriglyceridemia
 - Bromide
 - Iodide
-Decreased "Unmeasured Anions"
+**Decreased "Unmeasured Anions"**
 - Albumin
 - Phosphorus
-Increased "Unmeasured Cations"
+**Increased "Unmeasured Cations"**
 - Hyperkalemia
 - Hypercalcemia
 - Hypermagnesemia
@@ -187,7 +207,7 @@ Most of the time is caused by loss of chloride resulting in retention of bicarbo
 
 **Urine Loss (Loop Diuretics)**
 - By inhibiting the Na/K/2 Cl transporter in the ascending Loop of Henle, you cause   crazy chloride losses. The kidney retains bicarbonate to compensate.
-- By the way, contraction alkalosis is a lie that we have been told and have been passing down to future generations of doctors for far too long. Check the references for more information!
+- By the way, contraction alkalosis is a lie that we have been told and have been passing down to future generations for far too long.
 
 **GI Loss (Vomiting)**
 - Loss of chloride from gastric juices (think alkaline tide)
@@ -195,12 +215,12 @@ Most of the time is caused by loss of chloride resulting in retention of bicarbo
 **Oral Alkalinization**
 - Patient ate an entire bottle of Tums.
 
-DDx:
-- Saline responsive (e.g. hypochloremia)
+**DDx**:
+- **Saline responsive (i.e. hypochloremia)**
     - True volume depletion
     - NG suction/Nausea/vomiting
     - Diuretic use
-- Saline refractory
+- **Saline refractory**
     - Hypokalemia
     - [Milk-Alkali Syndrome - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557500/)
     - Mineralocorticoid excess states
@@ -214,5 +234,5 @@ DDx:
 - Hypoventilation itself has a myriad of causes, such as pneumonia, excess sedation, pneumothorax, etc., but oftentimes the clinical presentation will reveal those details.
 
 **Respiratory Alkalosis**
-Respiratory alkalosis is caused by hyperventilation. Period. 
+- Respiratory alkalosis is caused by hyperventilation. Period. 
 - Hyperventilation is caused by anxiety or stress most of the time. There are some pathologies that can cause hyperventilation as well (e.g. salicylate toxicity.
