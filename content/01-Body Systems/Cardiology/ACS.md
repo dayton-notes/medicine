@@ -30,7 +30,7 @@ IBCC
 
 also look for other common features: 
 - dyspnea, nausea, vomiting, palpitations, syncope, dizziness, unexplained fatigue, or epigastric discomfort
-- Physical findings may include signs of heart failure (e.g., pulmonary rales, S3 gallop), hypotension, tachycardia, or arrhythmias
+- Physical findings may include signs of [[heart failure]] (e.g., pulmonary rales, S3 gallop), hypotension, tachycardia, or arrhythmias
 
 - Risk factors include:
     - Personal history of atherosclerotic disease (e.g., prior MI, peripheral artery disease).

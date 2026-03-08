@@ -7,6 +7,18 @@ Dot Phrases
 - [Pus - An Owner’s Manual](https://publish.obsidian.md/pus-an-owners-manual/) — ID Megasite. It's beautiful.
 
 ---
+Trash Pile
+[Membership – ECG Weekly](https://ecgweekly.com/membership/)
+[palmER | AI for Emergency Medicine Documentation & Decision Support](https://www.palm-er.com/)
+[EM:RAP | CorePendium](https://www.emrap.org/corependium/)
+[Trials (All) | ICU REACH](https://www.icureach.com/criticalcaretrials)
+
+
+
+## Emergency Medicine
+EKG
+- [Dr. Smith’s ECG Blog - Expert ECG Interpretation and Emergency Cardiology Education](https://drsmithsecgblog.com/)
+
 ## Diagnostic Tools & Clinical Calculators
 
 - [MDCalc](https://www.mdcalc.com/) — Evidence-based medical calculators for clinical decision support.

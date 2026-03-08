@@ -10,7 +10,7 @@
 - GERD
 #### **[[Chest pain]]**
 - Acute coronary syndrome ([[ACS]])
-- [[Pulmonary embolism]]
+- [[Pulmonary Embolism]]
 - Aortic dissection
 - [[CAP|Pneumonia]]
 - Pneumothorax
@@ -20,7 +20,7 @@
 - Anxiety
 
 #### **Shortness of breath**
-- Congestive heart failure / Flash Pulmonary Edema
+- Congestive [[heart failure]] / Flash Pulmonary Edema
 - Chronic obstructive pulmonary disease ([[COPD]]) exacerbation
 - [[Obstructive Lung Disease|Asthma]] exacerbation
 - [[CAP|Pneumonia]]
@@ -36,7 +36,7 @@
 - [[Obstructive Lung Disease|COPD]] / [[Obstructive Lung Disease|COPD]] exacerbation
 - UACS
 - PE
-- Heart Failure / Pulmonary Edema
+- [[Heart Failure]] / Pulmonary Edema
 
 #### **Headache**
 - Migraine

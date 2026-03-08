@@ -14,7 +14,7 @@ High Ammonia (Urea Cycle Disorder)
 	- meds: "ammonia/nitrogen scavengers"
 		- IV: ammonul (ultra expensive and not widely available)
 		- PO: often already on at home
-AGMA + hyperammonemia = Organic Acidemia
+[[Acid-Base Abnormalities|AGMA]] + hyperammonemia = Organic Acidemia
 High Lactate:
 - Lactate going up -> points towards mitochondrial/TCA/ETC error
 

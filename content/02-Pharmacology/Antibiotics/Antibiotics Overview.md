@@ -542,7 +542,7 @@ Also used for Cryptococcus infections (maintenance phase for cryptococcal mening
 **2\. Itraconazole**(PO or IV)  
 **Best activity among azoles vs Histoplasmosis** – used for non-severe cases, and can also follow induction phase with Ambisome for severe disease.  Also used for Blastomycosis, sometimes Cocci and Paracocci infections, and onychomycosis. Commonly used for prophylaxis in transplant patients
 
-- Toxicity: elevated LFTs and also **negative inotrope** – can worsen or cause CHF in predisposed pts (black box warning)!
+- Toxicity: elevated LFTs and also **negative inotrope** – can worsen or cause [[Heart Failure|CHF]] in predisposed pts (black box warning)!
 - Many drug-drug interactions
 - Capsule form has poor bioavailability and absorption depends on acidic environment (avoid PPI/H2 blockers).  Liquid form is superior (must take with empty stomach)
 - **Poor CNS penetration**

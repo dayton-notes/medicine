@@ -33,14 +33,14 @@ Potassium Repletion
 Important functional measures of hepatobiliary system 
 
 Patterns:
-R factor score = points towards cholestatic vs. hepatocellular vs mixed injury
+[R Factor for Liver Injury](https://www.mdcalc.com/calc/4064/r-factor-liver-injury) = points towards cholestatic vs. hepatocellular vs mixed injury
 Cholestatic
 - increased ALP and GGT
 Mixed:
 - increased AST/ALT and ALP
 - think DILI, late viral hepatitis, early biliary obstruction
 Hepatocellular:
-- viral/autoimmune hepatitis, hemochromatosis, WIlson's disease, alpha 1 antitrypsin deficiency
+- viral/autoimmune hepatitis, hemochromatosis, Wilson's disease, alpha 1 antitrypsin deficiency
 - AST predominant: alcohol / cirrhosis
 
 #### Bilirubin
@@ -180,8 +180,8 @@ Causes of low albumin:
 			- uOsm>100: SIADH, hypothyroidism, Adrenal insufficiency
 			- uOsm<100: "tea and toast" diet, beer potomania, primary polydipsia
 	- Hypervolemic:
-		- CHF, cirrhosis, renal failure
-			- uNa<20: CHF, cirrhosis
+		- [[Heart Failure|CHF]], cirrhosis, renal failure
+			- uNa<20: [[Heart Failure|CHF]], cirrhosis
 			- uNa>20: Renal failure
 	- Treatments:
 		- Hypovolemic: Fluids (NS)

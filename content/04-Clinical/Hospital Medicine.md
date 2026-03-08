@@ -42,3 +42,22 @@ Presentation / Documentation
 		- Must update and evolve  
 	- Meds  
 	- Disposition
+
+### hot topics
+1) Pulmonary: COPD, Asthma, Pneumonia, Restrictive lung disease, Lung cancer, Pulmonary embolism, and Respiratory failure
+
+2) Endocrine: Diabetes, DKA and hyperosmolar coma, thyroid disorders, and adrenal crisis.
+
+3) GI: GI bleed, Cirrhosis of liver and complications, Hepatobiliary disorders and complications, Peptic ulcer disease, GERD, Crohn’s Disease, and inflammatory bowel disease.
+
+4) Renal: Acid Base disorders, renal failure (ESRD, acute, and chronic), renal stones, nephritic and nephrotic syndromes, and electrolyte imbalances
+
+5) Rheumatology: Gout, Osteoarthritis, SLE, Rheumatoid arthritis, and Sarcoidosis.
+
+6) Infectious disease: UTI, pneumonia, Skin infections, Infective endocarditis, Influenza, HIV, Osteomyelitis, Sepsis definitions
+
+7) Hematology and Oncology: Anemia, Cancer - Lung, Colon and Breast; Preventive screening measures and treatment modalities, Platelet and WBC disorders.
+
+8) Cardiology: Coronary artery disease, ACS, CHF; what to look for in a TTE (echo): EF, diastolic heart failure, valve problems, ischemia, rhythm abnormalities, atrial fibrillation, tachycardia and bradycardia.
+
+9) End of life care decisions

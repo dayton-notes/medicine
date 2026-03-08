@@ -33,7 +33,7 @@ Early (<1 hr) broad spectrum antibiotics
 - Consider clindamycin or linezolid prior to broad antibiotics (decrease toxin production)
 Fluid Resusc (30ml/kg IBW)
 - SALT-ED + SMART Trial - LR wins
-- Deviate for comorbidities (e.g. less fluid for CHF, etc.)
+- Deviate for comorbidities (e.g. less fluid for [[Heart Failure|CHF]], etc.)
 - Defend the MAP! (>65)
 - cap refill, track lactate, urine output, passive leg raising trial (ETCo2 increase by 5% indicates fluid responsiveness)
 - Early vasopressors (levophed)

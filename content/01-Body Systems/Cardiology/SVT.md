@@ -2,13 +2,23 @@
 aliases:
   - PSVT, Supraventricular Tachycardia
 ---
+---
+### Quick reference: 
+1. is patient unstable or stable?
+	1. unstable -> [[ACLS]]
+	2. Stable? continue. 
+2. Attempt to identify underliying trigger for event
+3. Attempt vagal maneuver
+4. Attempt adenosine
+5. Cardiovert
+
 ### Description
 Supraventricular tachycardia is a general term for dysrhythmias originating at or above the atrioventricular node, characterized by a narrow QRS complex (<120 ms) with a heart rate exceeding 100 bpm, typically ranging from 150 to 220 bpm. Supraventricular tachycardia includes various conditions, including atrial, junctional (ectopic), and atrioventricular tachycardias.
 
 ### [[EKG]] Findings:
 - No discernable P waves
 - Narrow QRS
-- Rate: Tachy (usually >150)
+- Rate: Tachy (usually >140-150)
 
 ### Treatment
 #### Treatment of Unstable Patients

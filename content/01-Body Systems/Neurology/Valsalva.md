@@ -27,4 +27,4 @@
 
 Cardiovascular changes occur during and after this maneuver due to baroreflex and other compensatory reflex mechanisms initiated by decreased preload.
 
-Valsalva maneuver can be utilized to assess autonomic function, evaluate heart failure, terminate supraventricular tachycardia, and differentiate cardiac murmurs.
+Valsalva maneuver can be utilized to assess autonomic function, evaluate [[heart failure]], terminate supraventricular tachycardia, and differentiate cardiac murmurs.

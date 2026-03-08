@@ -9,7 +9,7 @@ aliases:
 
 See "more info"
 
-PERC Score / Well's Score
+[PERC Rule for Pulmonary Embolism](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism) / [Wells' Criteria for DVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt)
 Heart Score
 
 If high index of suspicion for [[ACS]], skip to [[ACS]] workup
@@ -72,11 +72,11 @@ Diagnostics:
     - Pleuritic: LR ~0.2
     - Caution: chest pain may be atypical in women, elderly, or patients with diabetes.
 
-#### PE 
+#### [[Pulmonary Embolism]]
 
 - Risk factors:
     - Recent surgical procedures (especially orthopedic).
-    - Recent hospitalization for heart failure or MI.
+    - Recent hospitalization for [[heart failure]] or MI.
     - Prior venous thromboembolic disease.
     - Malignancy (especially metastatic).
     - Postpartum (especially after C-section).

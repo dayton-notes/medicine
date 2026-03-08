@@ -63,6 +63,7 @@ Iron Deficiency Anemia
 [[Iron Deficiency without Anemia]]
 [[Thalassemia]]
 	*** look for when degree of microcytosis outstrips the degree of [[Anemia]] (Hgb 10, MCV 68)
+IDA vs Thal calc: [Mentzer Index](https://www.mdcalc.com/calc/10534/mentzer-index)
 
 ---
 ### other

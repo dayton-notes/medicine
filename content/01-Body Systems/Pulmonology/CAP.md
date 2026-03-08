@@ -52,7 +52,7 @@ One major criterion OR three or more minor criteria
 		- Uremia (blood urea nitrogen level ≥ 20 mg/dl) 
 		- Leukopenia (white blood cell count < 4,000 cells/µl)†
 		- Thrombocytopenia (platelet count < 100,000/µl)
-		- Hypothermia (core temperature < 36oC)
+		- Hypothermia (core temperature < 36C)
 		- Hypotension requiring aggressive fluid resuscitation
 
 ---

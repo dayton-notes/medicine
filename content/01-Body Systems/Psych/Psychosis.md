@@ -5,7 +5,7 @@ aliases:
 ---
 ---
 See also: [[Antipsychotics]]
-All psych: [[1. Psych Interview Reference]]
+All psych: [[Psych Interview Reference]]
 ### Core Clinical Features of Psychosis
 
 | Symptom                         | Description                                                                                             | Notes                                                               |

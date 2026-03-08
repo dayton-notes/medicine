@@ -106,8 +106,8 @@ Stage 1 HTN: single antihypertensive
 
 **Compelling Indications:**
 CKD: ACEi / ARB
-HFrEF: BB, MRA, ARNi/ARB/ACEi, SGLT2 (GDMT)
-HFpEF: MRA, ARNi/ARB/ACEi
+[[Heart Failure|HFrEF]]: BB, MRA, ARNi/ARB/ACEi, SGLT2 (GDMT)
+[[Heart Failure|HFpEF]]: MRA, ARNi/ARB/ACEi
 
 
 **Lifestyle interventions:**

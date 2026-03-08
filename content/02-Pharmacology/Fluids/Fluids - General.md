@@ -76,7 +76,7 @@ Considering bicarbonate as a dependent variable is one of the concepts behind th
 
 On a related note, ***what is contraction alkalosis***?
 
-[![](http://sinaiem.org/wp-content/uploads/2019/07/Screen-Shot-2019-07-20-at-3.33.39-PM-768x862.png)](http://sinaiem.org/wp-content/uploads/2019/07/Screen-Shot-2019-07-20-at-3.33.39-PM.png) Not only is there less volume for the remaining bicarbonate (hence a higher concentration), but the loss of chloride leads to a higher SID, which is balanced by an increase in bicarbonate, causing a (contraction) **metabolic alkalosis**.
+[![](http://sinaiem.org/wp-content/uploads/2019/07/Screen-Shot-2019-07-20-at-3.33.39-PM-768x862.png)](http://sinaiem.org/wp-content/uploads/2019/07/Screen-Shot-2019-07-20-at-3.33.39-PM.png) Not only is there less volume for the remaining bicarbonate (hence a higher concentration), but the loss of chloride leads to a higher SID, which is balanced by an increase in bicarbonate, causing a (contraction) **[[Acid-Base Abnormalities|metabolic alkalosis]]**.
 
 Back to saline and hyperchloremic acidosis…
 
