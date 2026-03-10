@@ -15,7 +15,7 @@
 	- Prancing (walking)
 	- Pee
 	- Poop
-	- PO (N/V)
+	- PO (Feeding, N/V)
 - What needs to happen to discharge
 
 Presentation / Documentation

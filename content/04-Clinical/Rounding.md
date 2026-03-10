@@ -1,3 +1,12 @@
+Chart Check:
+
+Vitals
+- hold things that need holding
+Labs
+
+Glucose
+- any diabetes management
+
 ### Short Report
 
 Subjective:
