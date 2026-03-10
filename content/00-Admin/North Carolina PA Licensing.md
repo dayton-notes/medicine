@@ -9,19 +9,24 @@ See timeline and links.
 
 **NPI**: 
 - [NPPES](https://nppes.cms.hhs.gov/login)
+
 **NCMB**:
 - [Licensure Gateway | North Carolina Medical Board](https://portal.ncmedboard.org/index.aspx)
+
 **NCCPA**:
 - [NCCPA: Open Applications](https://portal.nccpa.net/n0/Applications/OpenApps)
 - Send PANCE results to state of choice
 - ![[Pasted image 20260310154846.png]]
+
 **Fingerprints**:
 - [NCMB Fingerprint Guidance Document.pdf](https://portal.ncmedboard.org/Documents/NCMB%20Fingerprint%20Guidance%20Document.pdf)
 - Forms:
 - [Applicant Information Form.pdf](https://portal.ncmedboard.org/Documents/Applicant%20Information%20Form.pdf)
 - [Authority for Release and Electronic Fingerprint Form.pdf](https://portal.ncmedboard.org/Documents/Authority%20for%20Release%20and%20Electronic%20Fingerprint%20Form.pdf)
+
 **DEA**:
 - [CSA Registration Online Mgmt Tools](https://apps.deadiversion.usdoj.gov/webforms2/spring/main?execution=e1s1)
+
 **Intent to Practice:** 
 - https://www.ncmedboard.org/resources-information/professional-resources/online-services/individual-services/pa-forms
 
