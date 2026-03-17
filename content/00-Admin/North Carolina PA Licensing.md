@@ -1,10 +1,11 @@
 
 See timeline and links. 
 
+---
 ### Graduation Year Licensing Timeline
 
 **March 1-30**
-1. Obtain NPI              
+1. Obtain NPI               
 2. Submit NCMB App         
 3. NCCPA information release 
 
@@ -31,11 +32,14 @@ PANCE
 2. Submit NC Intent to Practice
 3. Update NPI business/practice address with new job
 4. Update NPI taxonomy (student -> PA)
-
+---
 ### Links
 
 **NPI**: 
 - [NPPES](https://nppes.cms.hhs.gov/login)
+- Use "student" taxonomy and school address as business/practice address
+- ![[Pasted image 20260311142252.png]]
+- Update once licensed/hired
 
 **NCMB**:
 - [Licensure Gateway | North Carolina Medical Board](https://portal.ncmedboard.org/index.aspx)

@@ -3,7 +3,7 @@ aliases:
   - Labs
 ---
 ### Potassium
-##### Hypokalemia:
+#### Hypokalemia:
 Much more well tolerated than hyperkalemia
 
 - Main causes: GI losses, Renal Losses, Intracellular shifts, Low K Intake
@@ -22,7 +22,7 @@ Potassium Repletion
 	- Central line: 20meq / hr
 - IV potassium burns veins
 
-##### Hyperkalemia:
+#### Hyperkalemia:
 - Main causes: hemolysis of lab sample, acidosis, medications, decreased renal excretion, excessive intake
 	- Hemolysis: always ask "does this make sense"
 	- Acidosis: pH<7.35 causes shift extracellular

@@ -10,7 +10,7 @@ aliases:
 See "more info"
 
 [PERC Rule for Pulmonary Embolism](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism) / [Wells' Criteria for DVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt)
-Heart Score
+[HEART Score for Major Cardiac Events](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
 If high index of suspicion for [[ACS]], skip to [[ACS]] workup
 

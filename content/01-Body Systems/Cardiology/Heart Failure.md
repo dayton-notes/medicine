@@ -12,8 +12,6 @@ aliases:
 [[SCAPE]]
 
 
-
-
 ### HfrEF - Reduced Ejection Fraction / Systolic HF
 
 Etiologies: 

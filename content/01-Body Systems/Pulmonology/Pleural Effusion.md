@@ -11,6 +11,8 @@ Effusion is **exudative** if one of the following are met:
 - Pleural fluid-to-serum LDH ratio > 0.6
 - Pleural fluid LDH > 0.67 (ie, two-thirds) the upper limits of the laboratory's normal serum LDH
 
+Remove <1500c or risk of reexpansion pulmonary edema
+
 #### Labs
 - Always:
 	- Serum LDH
@@ -21,9 +23,8 @@ Effusion is **exudative** if one of the following are met:
 - Sometimes:
 	- Albumin
 		- HF/Cirrhosis etiology
-	- AFB
-	- TB
-	- Glucose
+	- AFB (TB)
+	- ADA (TB)
 	- pH - if malignant effusion, more likely to shift towards anaerobic glycolysis with corresponding increase In lactate (Warburg effect)
 		- <7.32 = poor prognosis
 		- [review](https://www.clinicsinoncology.com/open-access/malignant-pleural-effusion-the-importance-of-ph-asnbspprognostic-9231.pdf)
@@ -46,7 +47,7 @@ Effusion is **exudative** if one of the following are met:
 
 ### pathophysiology
 
-
+- 
 ---
 ### epidemiology / etiology  
 
@@ -85,17 +86,13 @@ Imaging
 ### treatment
 Thoracentesis:
 - diagnostic and therapeutic
+
 Recurrent effusions:
 - Pleurodesis
 	- Mechanical / chemical
 
 ---
 
-### studies
 
 
 
-
----
----
----

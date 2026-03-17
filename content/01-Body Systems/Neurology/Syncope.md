@@ -1,4 +1,21 @@
 **TLOC d/t global loss of blood flow to brain with spontaneous recovery. 
+
+Cardiogenic  vs Non Cardiogenic (Orthostatic / Vasovagal)
+### quick reference
+
+Evaluate for:
+High Risk Features
+	- palpitations preceding syncope
+	- syncope during exertion
+	- Hx of heart disease
+	- Suggested source of bleeding
+	- Syncope while supine
+	- Abscence of prodrome
+	- Age >60
+	- Trauma associated with syncopal event
+
+
+
 ### DDx
 
 - Cardiogenic
@@ -8,6 +25,9 @@
 	- Meds: a blockers, diuretics, antihypertensives
 - [[Seizure]]
 	- don’t wake up immediately normal (postictal)
+- Stroke
+- Intracranial Hemorrhage
+- Metabolic Disorder
 
 ### don’t miss
 
