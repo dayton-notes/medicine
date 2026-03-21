@@ -11,6 +11,10 @@ aliases:
 ---
 ### Quick Reference
 
+**Pearls**:
+Learn the compensation equations: the body will not over compensate - it is an additional underlying process
+
+
 **Clinical Evaluation of Metabolic Acidosis:**
 1. Determine Anion Gap
 2. Determine Winter's (underlying additional respiratory derangement)
@@ -23,21 +27,12 @@ aliases:
 	- ΔAG << ΔBicarb
 		- If the Δ Anion gap is much _lower_ than the Δ Bicarbonate, then this reveals a second process which is decreasing the bicarbonate. This indicates a combined anion gap metabolic acidosis plus a non-anion-gap metabolic acidosis.
 
-**AGMA** -> measure serum Osm -> [calculate Osm gap](https://www.mdcalc.com/calc/91/serum-osmolality-osmolarity)
-- You can easily screen for any alcohol intoxication with an osmolar gap.
-- Common Osmolar Gap AGMA culprits: 
-	- **Methanol**: present in windshield wiper fluid, paint, paint thinners, and wood stains, as well as other household and industrial agents
-	- **Ethylene glycol:** antifreeze, can also be found in several other substances, such as engine coolants and industrial solvents
-	- **Propylene glycol:** can be seen in patients receiving parenteral medications for which propylene glycol is used as a diluent, including diazepam, lorazepam, phenobarbital, phenytoin, and nitroglycerin
-    - **Diethylene glycol:** another industrial solvent
-    - **Isopropyl alcohol:** hand sanitizer and rubbing alcohol
-    - **Ethanol:** good ol fashioned alcohol
-    Source: [Diagnostics - Toxic Alcohols — Taming the SRU](https://www.tamingthesru.com/blog/diagnostics/toxic-alcohols)
+
 
 **NAGMA** -> consider ordering urine electrolytes (Na, K, Cl)
 - [Urine Anion Gap](https://www.mdcalc.com/calc/2045/urine-anion-gap) = (UNa + UK) - UCl
-	- Positive gap: RTA
-	- Negative gap: GI loss, IV Fluid
+	- Positive gap (>1): RTA
+	- Negative gap (<1): GI loss, IV Fluid
 
 **Bootleg Winters' Formula:**
 pCO2 should = last 2 digits of pH if respiratory compensation is adequate
@@ -88,6 +83,7 @@ Lung Compensatory Mechanisms
 Kidney Compensatory Mechanisms
 - Respiratory acidosis -> retain HCO3 -> raise pH (compensatory metabolic alkalosis)
 - Respiratory Alkalosis -> excrete HCO3 -> lower pH (compensatory metabolic acidosis)
+
 ![[Pasted image 20260308102255.png]]
 
 **A quick note about anion gap and acidosis:**
@@ -104,6 +100,17 @@ Uremia
 Lactate
 Toxic ingestion (toxic alcohols, APAP, etc.)
 Salicylates
+
+**AGMA** -> measure serum Osm -> [calculate Osm gap](https://www.mdcalc.com/calc/91/serum-osmolality-osmolarity)
+- You can easily screen for any alcohol intoxication with an osmolar gap.
+- Common Osmolar Gap AGMA culprits: 
+	- **Methanol**: present in windshield wiper fluid, paint, paint thinners, and wood stains, as well as other household and industrial agents
+	- **Ethylene glycol:** antifreeze, can also be found in several other substances, such as engine coolants and industrial solvents
+	- **Propylene glycol:** can be seen in patients receiving parenteral medications for which propylene glycol is used as a diluent, including diazepam, lorazepam, phenobarbital, phenytoin, and nitroglycerin
+    - **Diethylene glycol:** another industrial solvent
+    - **Isopropyl alcohol:** hand sanitizer and rubbing alcohol
+    - **Ethanol:** good ol fashioned alcohol
+    Source: [Diagnostics - Toxic Alcohols — Taming the SRU](https://www.tamingthesru.com/blog/diagnostics/toxic-alcohols)
 
 **Full DDx: GOLDMARK and/or MUDPILES**
 

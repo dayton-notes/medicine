@@ -1,10 +1,20 @@
+---
+aliases:
+---
+---
+### Quick Reference
 
+
+---
+### Overview
+
+![[Pasted image 20260321125110.png]]
 
 | **Agent**          | **Target Receptors**       | **Key Hemodynamic Effects**          | **Shock States**                                  | **How It Augments Derangements**                                                                                                                                          |
 | ------------------ | -------------------------- | ------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Norepinephrine** | α1 (+++) β1 (++) β2 (+)    | ↑ SVR<br>↑ BP <br>↑ CO<br>↑ HR       | Distributive, Cardiogenic                         | Restores vascular tone and BP in distributive shock; modest inotropy supports CO in cardiogenic shock                                                                     |
 | **Epinephrine**    | β1 (+++), α1 (++), β2 (++) | ↑ SVR <br>↑ BP<br>↑↑ CO<br>↑↑ HR     | Distributive, Cardiogenic                         | Potent inotropy and vasoconstriction; used when refractory to norepinephrine or for severe hypotension. Low doses (≤0.03) → predominant β/inotropy; >0.1 → predominant α1 |
-| **Phenylephrine**  | α1 (+++)                   | ↑ SVR<br>↑↑ BP <br>↔/↓ CO<br>↔/↓ HR  | Distributive (rare), Hypovolemic (peri-op)        | Pure vasoconstrictor; augments SVR and BP but may decrease CO; used in anesthesia-induced hypotension. Avoid in [[heart failure]].                                            |
+| **Phenylephrine**  | α1 (+++)                   | ↑ SVR<br>↑↑ BP <br>↔/↓ CO<br>↔/↓ HR  | Distributive (rare), Hypovolemic (peri-op)        | Pure vasoconstrictor; augments SVR and BP but may decrease CO; used in anesthesia-induced hypotension. Avoid in [[heart failure]].                                        |
 | **Milrinone**      | PDE-3 inhibitor            | ↓↓ SVR<br>↓↓ BP <br>↑↑ CO<br>↔/↑ HR  | Cardiogenic                                       | Inodilator; increases contractility and reduces afterload, improving CO in low-output states                                                                              |
 | **Dobutamine**     | β1 (+++), β2 (++)          | ↓/↔ SVR <br>↓/↔ BP<br>↑↑ CO<br>↑ HR  | Cardiogenic                                       | Inodilator; increases contractility and CO, reduces afterload; used for hypoperfusion with low CO                                                                         |
 | **Dopamine**       | D1 (+++), β1 (++), α1 (+)  | ↑↑ SVR<br>↑↑ BP <br>↑ CO<br>↑↑ HR    | Cardiogenic (rare), Distributive (if bradycardic) | Dose-dependent effects; inotropy at low/intermediate doses, vasoconstriction at high doses; arrhythmogenic                                                                |
@@ -13,8 +23,8 @@
 
 
 
-
-## **Push Dose Pressors**
+---
+### Push Dose Pressors
 
 #### **Epinephrine**
 - usual way epinephrine is used is as an infusion at 0.02–0.5 μg/kg/min for hypotension or a bolus 0.01mg/kg (max dose, 1 mg) for bradycardia or cardiac arrest

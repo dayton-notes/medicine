@@ -3,6 +3,7 @@ aliases: []
 ---
 ---
 ### Quick Reference
+[Acute Pancreatitis - The Operative Review Of Surgery](https://operativereview.com/acute-pancreatitis/)
 
 #### Acute
 Etiology:
