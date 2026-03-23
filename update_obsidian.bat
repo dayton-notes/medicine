@@ -13,7 +13,7 @@ robocopy "%SRC%\01-Body Systems" "%DEST%\01-Body Systems" /E /XF index.md
 robocopy "%SRC%\02-Pharmacology" "%DEST%\02-Pharmacology" /E /XF index.md
 robocopy "%SRC%\03-Diagnostics"  "%DEST%\03-Diagnostics"  /E /XF index.md
 robocopy "%SRC%\04-Clinical"     "%DEST%\04-Clinical"     /E /XF index.md
-robocopy "%SRC%\05-Workflows"    "%DEST%\0-Workflows"     /E /XF index.md
+robocopy "%SRC%\05-Workflows"    "%DEST%\05-Workflows"    /E /XF index.md
 robocopy "%SRC%\Images"          "%DEST%\Images"          /E /XF index.md
 
 echo Folder sync complete.
