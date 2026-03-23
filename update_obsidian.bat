@@ -31,11 +31,11 @@ if %errorlevel% equ 0 (
     goto end
 )
 
-echo Pulling latest changes before pushing...
-git pull --rebase
-
 echo Committing...
 git commit -m "Auto-update: synced Medicine folders"
+
+echo Pulling latest changes before pushing...
+git pull --rebase
 
 echo Pushing...
 git push
