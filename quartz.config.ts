@@ -1,6 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import * as Component from "./quartz/components"
 
 /**
  * Quartz 4 Configuration
@@ -14,14 +13,12 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "goatcounter",
-      websiteId: "https://daytonnotes.goatcounter.com/",
+      provider: "goatcounter", websiteId:'https://daytonnotes.goatcounter.com/'
     },
     locale: "en-US",
     baseUrl: "dayton-notes.github.io/medicine",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -55,43 +52,7 @@ const config: QuartzConfig = {
         },
       },
     },
-
-    /**
-     * Custom Layout Logic
-     * - Homepage (index.md) gets a clean, full-width layout
-     * - All other pages use default Quartz structure
-     */
-    layout: {
-      default: (ctx) => {
-        const slug = ctx.fileData.slug
-        const isHome = slug === "index" || slug === ""
-
-        if (isHome) {
-          return {
-            header: [],
-            left: [],
-            right: [],
-            body: [
-              Component.PageTitle(),
-              Component.Darkmode(),
-              Component.Content(),
-            ],
-          }
-        }
-
-        return {
-          header: [Component.Header()],
-          left: [Component.Sidebar()],
-          right: [Component.TableOfContents()],
-          body: [
-            Component.Breadcrumbs(),
-            Component.Content(),
-          ],
-        }
-      },
-    },
   },
-
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -105,17 +66,15 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.HardLineBreaks(),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false}),
+      Plugin.HardLineBreaks(),          // ← adds Obsidian-like line breaks, testing
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-
     filters: [Plugin.RemoveDrafts()],
-
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -130,7 +89,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Plugin.CustomOgImages(),
+      // Comment out CustomOgImages to speed up build time
+      //Plugin.CustomOgImages(),
     ],
   },
 }
