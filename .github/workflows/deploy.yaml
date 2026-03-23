@@ -32,7 +32,6 @@ jobs:
       - name: Install PageCrypt
         run: npm install pagecrypt
 
-      # ⭐ NEW: Encrypt index.html
       - name: Encrypt index.html with PageCrypt
         env:
           QUARTZ_PASSWORD: ${{ secrets.QUARTZ_PASSWORD }}
@@ -41,8 +40,8 @@ jobs:
             echo "❌ QUARTZ_PASSWORD secret is not set"
             exit 1
           fi
-          echo "Encrypting public/index.html..."
-          npx pagecrypt public/index.html public/index.html --password "$QUARTZ_PASSWORD"
+          echo "🔐 Encrypting public/index.html..."
+          npx pagecrypt public/index.html public/index.html "$QUARTZ_PASSWORD"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
