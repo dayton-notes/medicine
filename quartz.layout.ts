@@ -6,8 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-  }),
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -37,7 +36,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.ConditionalRender({
+      component: Component.Explorer(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   right: [
     Component.ConditionalRender({
