@@ -1,12 +1,3 @@
----
-title: EM/CC
----
-
-
-<script data-goatcounter="https://daytonnotes.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
-
 
 ### [Admin](https://www.daytonem.cc/00-Admin/)
 
@@ -19,16 +10,6 @@ title: EM/CC
 ### [Clinical](https://www.daytonem.cc/04-Clinical/)
 
 ### [Workflows](https://www.daytonem.cc/05-Workflows/)
-
-
-
-
-
-
-
-
-
-
 
 
 
