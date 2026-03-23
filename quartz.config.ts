@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "goatcounter", websiteId:'https://daytonnotes.goatcounter.com/'
     },
     locale: "en-US",
-    baseUrl: "dayton-notes.github.io/medicine",
+    baseUrl: "https://www.daytonem.cc",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

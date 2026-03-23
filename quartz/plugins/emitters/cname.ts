@@ -4,7 +4,7 @@ import fs from "fs"
 import { styleText } from "util"
 
 export function extractDomainFromBaseUrl(baseUrl: string) {
-  const url = new URL(`https://${baseUrl}`)
+  const url = new URL(`https://www.daytonem.cc`)
   return url.hostname
 }
 
