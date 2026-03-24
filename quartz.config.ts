@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "📖 Home",
     pageTitleSuffix: "",
-    enableSPA: false,
+    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "goatcounter", websiteId:'https://daytonnotes.goatcounter.com/'
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#000000",
-          lightgray: "#00d0e3a8",
+          lightgray: "#00d0e35a",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
