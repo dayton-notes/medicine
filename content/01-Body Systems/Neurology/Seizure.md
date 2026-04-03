@@ -36,3 +36,13 @@ See [[Status Epilepticus]] for emergent treatment of seizure
 - Motor = has some movement associated with the semiology
 - Bilateral tonic-clonic = both sides of body have stiffening then progresses to rapid rhythmic shaking/jerking
 - Focal to bilateral tonic-clonic = starts with a focal seizure (motor on only 1 side or nonmotor coming from one side of cortex) and spread to encompass all of cortex with bilateral stiffening -> jerking
+
+### Driving after Seizure in NC
+
+No driving until at least 6 months seizure free on a stable regimen. 
+- reduction or discontinuing seizure treatment requires the same driving restriction, as it is unknown whether a smaller dose will control seizures as effectively. 
+- Advise patients that after 6 months without seizures on a stable regimen, if the patient obtains a valid DMV medical reporting form, neurologist can sign this recommendation for return to driving.  
+- The law requires citizens of the state of NC are supposed to self-report all medical conditions that could affect the ability to drive.  
+- This form can be obtained at the DMV or on their website (https://www.ncdot.gov/download/dmv/DL78MedicalReportForm.pdf)
+- The right to drive is conferred by the approval of the DMV Medical Board, not by any physician office. 
+- Annual review and resubmission of physician recommendation to the DMV is the obligation of the patient. 

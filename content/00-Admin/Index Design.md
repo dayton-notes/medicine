@@ -15,9 +15,9 @@ aliases:
 ## [Workflows](https://www.daytonem.cc/05-Workflows/)
 
 
-| WorkFlows           | Ortho       |
-| ------------------- | ----------- |
-| Imaging             |             |
-| Labs                |             |
-| Procedures          |             |
-| Discharge Resources | Calculators |
+| WorkFlows           | Ortho            |
+| ------------------- | ---------------- |
+| Imaging             | Chief complaints |
+| [[Labs]]            |                  |
+| Procedures          | Consents         |
+| Discharge Resources | Calculators      |
