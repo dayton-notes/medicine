@@ -1,0 +1,49 @@
+
+- EM principles and philosophy
+- Existing Structured Programs
+	- ALIEM Bridge
+	- [Bridge to EM: Senior Medical Student Curriculum (2nd Edition, Updated 2024)](https://www.aliem.com/bridge-to-em/)
+	- EM Ninja
+	- [site:https://emninja.org - Google Search](https://www.google.com/search?q=site:https://emninja.org&sca_esv=4b9c4fb793c57767&sxsrf=ANbL-n4ctd8ak4wFIBVt2Sm9i6hyzkyxPg:1774400342536&ei=VjPDaeyoIO61qtsP3a3KsAs&start=20&sa=N&sstk=Af77f_eJPRR4nq-q4-Bh5lyAtOavzGPhax9IXYV_758_COAgK1s-R983g7mx437GvHHn6x1iQmk85cNNRP7v7MH9peaeojDokqNDH9Pfz9hiVSig7HBw3Dze5QwkzQGEOtny&ved=2ahUKEwjsq-yw7LmTAxXummoFHd2WErY4ChDy0wN6BAgMEAc&biw=1447&bih=819&dpr=1.65) Search for key words
+	- [Intern Crash Course – EM Ninja](https://emninja.org/?page_id=84)
+- Supplemental 
+	- EM Critical Care
+		- [Crashing Patient](https://crashingpatient.com/)
+		- [resusme | Resuscitation Medicine from Dr Cliff Reid](https://resus.me/)
+	- Obstetrics
+	- Radiology
+		- [One Night in the ED](http://radiology.cornfeld.org/ED/)
+		- [Rads Review – EM Ninja](https://emninja.org/?page_id=150)
+	- Trauma
+	- Toxicology 
+	- Pediatrics
+	- Austere/Wilderness/Tactical
+- EKG
+	- [ECG Weekly – Mastering ECG Interpretation To Save And Improve More Lives](https://ecgweekly.com/)
+	- [Dr. Smith’s ECG Blog - Expert ECG Interpretation and Emergency Cardiology Education](https://drsmithsecgblog.com/)
+	- [ECG Cases blog | Emergency Medicine Cases](https://emergencymedicinecases.com/blogs/ecg-cases/)
+	- [EKG of the Week – EM Ninja](https://emninja.org/?page_id=80)
+	- [ECG Teaching Cases | Substack](https://litannenbaum.substack.com/)
+- Procedures
+	- HALO: [High Risk/Low Frequency — BROWN EMERGENCY MEDICINE BLOG](https://brownemblog.com/high-risklow-frequency)
+	- 
+- Ultrasound
+- ATLS/PALS/ACLS review 
+- Medical Malpractice 
+	- [Home | embouncebacks](https://www.embouncebacks.com/)
+	- [Top 10 principles on how to avoid getting sued](https://www.acep.org/siteassets/uploads/uploaded-files/acep/clinical-and-practice-management/resources/medical-legal/top-10-principles-on-how-to-avoid-getting-sued-in-em.pdf)
+	- [The Medical Malpractice Curriculum for Emergency Physicians — BROWN EMERGENCY MEDICINE BLOG](https://brownemblog.com/blogposts/2020/9/4/medical-malpractice-curriculum)
+	- [The Expert Witness Newsletter | Med Mal Reviewer | Substack](https://expertwitness.substack.com/)
+- Most Important Studies
+	- [Ben's Top Ten | Continuing Education | Emergency Medicine | IU School of Medicine](https://medicine.iu.edu/emergency-medicine/continuing-education/pocus/bens-top-ten)
+	- [52 Articles in 52 Weeks, 3rd edition (2022)](https://www.aliem.com/52-articles-52-weeks-3rd-edition-2022/)
+	- [Trials (All) | ICU REACH](https://www.icureach.com/criticalcaretrials)
+	- [EM Cases Journal Club | Taking the Boring out of Journal Club](https://emergencymedicinecases.com/blogs/journal-club/)
+	- - [Evidence Triage | Ryan Radecki | Substack](https://www.evidencetriage.com/)
+- Documentation
+	- [EM DOT PHRASES – Too many EMRs, not enough f**ks to give](https://natedotphrase.com/)
+	- [Dotphrases](https://rkunitake.wordpress.com/)
+	- [ED Smart Chart: Physical Exam](https://edsmartchart.blogspot.com/search/label/Physical%20Exam)
+	- [Intern needing MDM feedback. : r/emergencymedicine](https://www.reddit.com/r/emergencymedicine/comments/tyw7ff/intern_needing_mdm_feedback/)
+	- [MDM for different chief complaints - WikEM](https://wikem.org/wiki/MDM_for_different_chief_complaints)
+- Resources

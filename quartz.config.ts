@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "📖 Home",
-    pageTitleSuffix: "test",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -40,13 +40,13 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#183f2f",
+          light: "#272730",
           lightgray: "#00d0e35a",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#ffbb009b",
-          tertiary: "#308e95",
+          secondary: "#ffebb3",
+          tertiary: "#d4fcff",
           highlight: "rgba(131, 65, 172, 0.51)",
           textHighlight: "#ffbb00a9",
         },

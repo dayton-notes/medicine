@@ -3,16 +3,78 @@ aliases:
 ---
 ### quick reference
 
-
----
-### clinical features
-
-See "more info"
-
 [PERC Rule for Pulmonary Embolism](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism) / [Wells' Criteria for DVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt)
 [HEART Score for Major Cardiac Events](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
+
 If high index of suspicion for [[ACS]], skip to [[ACS]] workup
+
+---
+### History
+
+
+
+##### location & radiation
+
+- Location:
+    - Migration over time suggests aortic dissection.
+    - Very _focal_ pain suggests chest wall or pleural source (rather than visceral pain). (Griffin 2022)
+    - Dermatomal distribution may suggest Herpes zoster.
+- Radiation:
+    - Ischemia: may radiate to arms, neck, jaw, teeth, lower face, or epigastrium
+    - Dissection: often radiates to the back
+    - Pericarditis: may radiate to neck, back, trapezius ridge
+    - Musculoskeletal pain shouldn't radiate
+
+##### timing & patterning
+
+- Rapid onset of pain?
+    - Ischemia: often takes a few minutes to reach maximal severity
+    - Sudden/instantaneous onset:
+        - Aortic dissection
+        - Pneumothorax and/or pneumomediastinum
+        - PE (pain may reflect distension of the pulmonary artery). (Braunwald 12e)
+- Duration of pain?
+    - Fleeting chest pain (lasting seconds) is rarely ischemic
+    - Angina may last 2-10 minutes
+    - Acute myocardial infarction usually lasts >30 minutes
+- Recurrent episodes of chest pain may suggest:
+    - Myocardial ischemia (anginal episodes)
+    - Gastroesophageal reflux disease
+    - Esophageal spasm
+##### palliating or provoking factors?
+
+- Palliating factors?
+    - Sitting and leaning forward may alleviate pericarditis or GERD.
+    - Nitroglycerine seems to improve pain:
+        - Caution: Diagnostic performance is _poor_.
+        - May suggest the following possibilities:
+            - Myocardial ischemia.
+            - Esophageal spasm.
+            - Random chance; placebo effect.
+- Provoking factors?
+    - Exertional: suggests ischemia.
+    - Swallowing triggers pain: esophageal pathology (including esophageal perforation).
+    - Inspiration (pleuritic chest pain is worse with inspiration, but not general movement/palpation).  Causes include:
+        - Pneumothorax.
+        - PE.
+        - Pericarditis.
+        - Pleuritis, pleuropericarditis.
+        - Mediastinitis, pneumomediastinum.
+        - [[CAP|Pneumonia]].
+        - Esophageal disease.
+        - Musculoskeletal (e.g., costochondritis).
+
+##### associated symptoms
+
+- Diaphoresis? (worrisome in general, including ischemia)
+- Nausea/vomiting?
+    - Nausea/vomiting simultaneous with pain concerning for ischemia
+    - Retching with _subsequent_ pain suggests esophageal rupture (Boerhaave syndrome)
+- Dyspnea? (MI, PE, pulmonary pathology, pneumothorax)
+- Neurologic symptoms? (may suggest aortic dissection)
+- Leg pain/swelling? (may suggest pulmonary embolism)
+- Viral prodrome? (pericarditis, myocarditis, [[CAP|pneumonia]], costochondritis, MI)
 
 ---
 ### workup
@@ -101,6 +163,10 @@ Diagnostics:
     - Severe retching/vomiting followed by chest pain.
     - History of prior esophageal disease.
     - History of recent esophageal procedures (e.g., nasogastric tube, Blakemore tube, endoscopy).
+
+#### Pulmonary Embolism
+
+#### Perimyocarditis / Pericardial Effusion
 #### Differential
 ##### cardiac
 
@@ -112,102 +178,31 @@ Diagnostics:
 
 ##### pulmonary
 
-- PE.
-- Pneumothorax.
-- [[CAP|Pneumonia]].
-- Pleuritis (e.g., connective tissue disease, viral infection, uremic).
-- Pulmonary hypertension (may cause anginal-quality pain with exertion).
-- Lung cancer.
+- PE
+- Pneumothorax
+- [[CAP|Pneumonia]]
+- Pleuritis (e.g., connective tissue disease, viral infection, uremic)
+- Pulmonary hypertension (may cause anginal-quality pain with exertion)
+- Lung cancer
 
 ##### gastrointestinal
-
-- GERD (gastroesophageal reflux disorder).
-- Esophageal spasm.
-- Esophagitis.
-- Esophageal rupture with mediastinitis.
-- Cholecystitis.
-- Peptic ulcer disease.
-- Pancreatitis.
-
+- GERD (gastroesophageal reflux disorder)
+- Esophageal spasm
+- Esophagitis
+- Esophageal rupture with mediastinitis
+- Cholecystitis
+- Peptic ulcer disease
+- Pancreatitis
 ##### neurologic
-
-- Herpes zoster.
-- Cervical root compression.
-- Thoracic outlet syndrome.
-
+- Herpes zoster
+- Cervical root compression
+- Thoracic outlet syndrome
 ##### musculoskeletal & rheumatologic
-
-- Costochondritis.
-- Rib fracture or other trauma.
-- Intercostal muscle strain.
-- Sternoclavicular arthritis.
-
+- Costochondritis
+- Rib fracture or other trauma
+- Intercostal muscle strain
+- Sternoclavicular arthritis
 ##### psychiatric
+- Anxiety
+- Somatization/functional disorders
 
-- Anxiety.
-- Somatization/functional disorders.
-
-#### History
-
-##### location & radiation
-
-- Location:
-    - Migration over time suggests aortic dissection.
-    - Very _focal_ pain suggests chest wall or pleural source (rather than visceral pain). (Griffin 2022)
-    - Dermatomal distribution may suggest Herpes zoster.
-- Radiation:
-    - Ischemia: may radiate to arms, neck, jaw, teeth, lower face, or epigastrium.
-    - Dissection: often radiates to the back.
-    - Pericarditis: may radiate to neck, back, trapezius ridge.
-    - Musculoskeletal pain shouldn't radiate.
-
-##### timing & patterning
-
-- Rapid onset of pain?
-    - Ischemia: often takes a few minutes to reach maximal severity.
-    - Sudden/instantaneous onset:
-        - Aortic dissection.
-        - Pneumothorax and/or pneumomediastinum.
-        - PE (pain may reflect distension of the pulmonary artery). (Braunwald 12e)
-- Duration of pain?
-    - Fleeting chest pain (lasting seconds) is rarely ischemic.
-    - Angina may last 2-10 minutes.
-    - Acute myocardial infarction usually lasts >30 minutes.
-- Recurrent episodes of chest pain may suggest:
-    - Myocardial ischemia (anginal episodes).
-    - Gastroesophageal reflux disease.
-    - Esophageal spasm.
-
-##### palliating or provoking factors?
-
-- Palliating factors?
-    - Sitting and leaning forward may alleviate pericarditis or GERD.
-    - Nitroglycerine seems to improve pain:
-        - Caution: Diagnostic performance is _poor_.
-        - May suggest the following possibilities:
-            - Myocardial ischemia.
-            - Esophageal spasm.
-            - Random chance; placebo effect.
-- Provoking factors?
-    - Exertional: suggests ischemia.
-    - Swallowing triggers pain: esophageal pathology (including esophageal perforation).
-    - Inspiration (pleuritic chest pain is worse with inspiration, but not general movement/palpation).  Causes include:
-        - Pneumothorax.
-        - PE.
-        - Pericarditis.
-        - Pleuritis, pleuropericarditis.
-        - Mediastinitis, pneumomediastinum.
-        - [[CAP|Pneumonia]].
-        - Esophageal disease.
-        - Musculoskeletal (e.g., costochondritis).
-
-##### associated symptoms
-
-- Diaphoresis? (worrisome in general, including ischemia)
-- Nausea/vomiting?
-    - Nausea/vomiting simultaneous with pain concerning for ischemia.
-    - Retching with _subsequent_ pain suggests esophageal rupture (Boerhaave syndrome).
-- Dyspnea? (MI, PE, pulmonary pathology, pneumothorax).
-- Neurologic symptoms? (may suggest aortic dissection).
-- Leg pain/swelling? (may suggest pulmonary embolism).
-- Viral prodrome? (pericarditis, myocarditis, [[CAP|pneumonia]], costochondritis, MI).
