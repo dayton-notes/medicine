@@ -18,24 +18,32 @@ EM Ninja
 
 ---
 ### Supplemental 
-EM Critical Care
+
+**EM Critical Care**
 - [Crashing Patient](https://crashingpatient.com/)
 - [resusme | Resuscitation Medicine from Dr Cliff Reid](https://resus.me/)
-Obstetrics
-- 
-Radiology
+
+**Obstetrics**
+- placeholder
+
+**Radiology**
 - [One Night in the ED](http://radiology.cornfeld.org/ED/)
 - [Rads Review – EM Ninja](https://emninja.org/?page_id=150)
-Trauma
-- 
-Toxicology
-- 
-Pediatrics
-- 
-Infectious Disease
+
+**Trauma**
+- placeholder
+
+**Toxicology**
+- placeholder
+
+**Pediatrics**
+- placeholder
+
+**Infectious Disease**
 - [Shorter is Better - PO vs IV](https://www.bradspellberg.com/)
 - [Index - Pus. An Owners Manual](https://publish.obsidian.md/pus-an-owners-manual/)
-Austere/Wilderness/Tactical
+
+**Austere/Wilderness/Tactical**
 - [Welcome to the BoneGoat Aid Station – Hoof & Skull](https://hoofskull.com/pages/the-aid-station)
 - [Austere Medicine | European Medics](https://www.europeanmedics.eu/)
 - [LF Medic - Procedures | Light Fighter Manifesto](https://lightfightermanifesto.org/guides/medic-procedures/)
@@ -50,12 +58,16 @@ Austere/Wilderness/Tactical
 - [ECG Cases blog | Emergency Medicine Cases](https://emergencymedicinecases.com/blogs/ecg-cases/)
 - [EKG of the Week – EM Ninja](https://emninja.org/?page_id=80)
 - [ECG Teaching Cases | Substack](https://litannenbaum.substack.com/)
+- [EKG Library • LITFL • ECG Library Basics](https://litfl.com/ecg-library/)
 ---
 ### Procedures
 -  HALO: [High Risk/Low Frequency — BROWN EMERGENCY MEDICINE BLOG](https://brownemblog.com/high-risklow-frequency)
 ---
 ### Ultrasound
-
+- [POCUS Atlas](https://www.thepocusatlas.com/)
+- [POCUS 101](https://www.pocus101.com/)
+- [FOAM-US resources – SPOCUS](https://spocus.org/resources-programs/foamed/)
+- 
 
 - ---
 
@@ -112,3 +124,6 @@ Austere/Wilderness/Tactical
 - [Emergency Medicine Cases | EM Cases](https://emergencymedicinecases.com/)
 - [emupdates – return if worse](https://emupdates.com/)
 - [DenverEM - Resident Resources](https://www.denverem.org/resident-resources)
+- [AMBOSS](https://resident360.amboss.com/)
+- [Critical Care Northampton – Reviewing Critical Care, Journals and FOAMed](https://criticalcarenorthampton.com/)
+- [REBEL CRIT - REBEL EM - Emergency Medicine Blog](https://rebelem.com/rebel-crit/)
