@@ -6,7 +6,9 @@ aliases:
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/how-em-experts-think-strategies-for-pre-shift-arrival/id411665520?i=1000681458574"></iframe>
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/ep-201-how-em-experts-think-part-2-data-gathering-diagnostic/id411665520?i=1000683037624"></iframe>
 
-- [Screencast: How to Think Like an Emergency Physician – emupdates](https://emupdates.com/screencast-how-to-think-like-an-emergency-physician/)
+ [Screencast: How to Think Like an Emergency Physician – emupdates](https://emupdates.com/screencast-how-to-think-like-an-emergency-physician/)
+
+[The Preferred Error – emupdates](https://emupdates.com/the-preferred-error/)
 
 ---
 ### Existing Structured Programs
@@ -24,7 +26,7 @@ EM Ninja
 - [resusme | Resuscitation Medicine from Dr Cliff Reid](https://resus.me/)
 
 **Obstetrics**
-- placeholder
+- [Obstetric Readiness in the Emergency Department (ObRED) Manual](https://www.ihs.gov/sites/MCH/themes/responsive2017/display_objects/documents/obredmanualdec2024.pdf)
 
 **Radiology**
 - [One Night in the ED](http://radiology.cornfeld.org/ED/)
@@ -34,16 +36,23 @@ EM Ninja
 - placeholder
 
 **Toxicology**
-- placeholder
+- [webPOISONCONTROL: Your Online Poison Control](https://triage.webpoisoncontrol.org/)
+- [IBCC Toxicology and Addiction Medicine](https://emcrit.org/ibcc/toc/#toxicology_&_addiction_medicine)
+- [extrip-workgroup.org](https://www.extrip-workgroup.org/)
+- [Erowid](https://www.erowid.org/)
+- [American College of Medical Toxicology: Podcasts](https://education.acmt.net/podcasts)
+- [Toxicology Library • LITFL • Tox Library](https://litfl.com/tox-library/)
+- [Tox & the Hound](https://toxandhound.com/)
 
 **Pediatrics**
-- placeholder
+- [Clinical Pathways Library | Children's Hospital of Philadelphia](https://www.chop.edu/pathways-library)
+- [Emergency Department Clinical Practice Guidelines | Children's Healthcare of Atlanta](https://www.choa.org/medical-professionals/physician-resources/clinical-practice-guidelines/emergency-department-clinical-guidelines)
 
 **Infectious Disease**
 - [Shorter is Better - PO vs IV](https://www.bradspellberg.com/)
 - [Index - Pus. An Owners Manual](https://publish.obsidian.md/pus-an-owners-manual/)
 
-**Austere/Wilderness/Tactical**
+**Operational/Austere/Wilderness**
 - [Welcome to the BoneGoat Aid Station – Hoof & Skull](https://hoofskull.com/pages/the-aid-station)
 - [Austere Medicine | European Medics](https://www.europeanmedics.eu/)
 - [LF Medic - Procedures | Light Fighter Manifesto](https://lightfightermanifesto.org/guides/medic-procedures/)

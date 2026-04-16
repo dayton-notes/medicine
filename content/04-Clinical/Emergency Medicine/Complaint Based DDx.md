@@ -4,10 +4,11 @@
 - Appendicitis
 - Cholecystitis
 - [[Pancreatitis]]
-- Bowel obstruction
+- [[Small Bowel Obstruction|Bowel obstruction]]
 - [[Constipation]]
 - [[Pancreatitis]]
 - GERD
+---
 #### **[[Chest pain]]**
 - Acute coronary syndrome ([[ACS]])
 - [[Pulmonary Embolism]]
@@ -17,27 +18,28 @@
 - [[Pleural Effusion]]
 - Gastroesophageal reflux disease (GERD)
 - Cough
-- Anxiety
-
+- [[Anxiety]]
+---
 #### **Shortness of breath**
 - Congestive [[heart failure]] / Flash Pulmonary Edema
 - Chronic obstructive pulmonary disease ([[COPD]]) exacerbation
 - [[Obstructive Lung Disease|Asthma]] exacerbation
 - [[CAP|Pneumonia]]
-- Pulmonary embolism
+- [[Pulmonary embolism]]
 - ARDS
 - [[DKA]]
 - Vocal Cord Dysfunction
 - Anxiety
+---
 #### **Cough**
 - Viral URI
 - Acute Bronchitis
 - [[CAP]]
 - [[Obstructive Lung Disease|COPD]] / [[Obstructive Lung Disease|COPD]] exacerbation
 - UACS
-- PE
+- [[Pulmonary Embolism|PE]]
 - [[Heart Failure]] / Pulmonary Edema
-
+---
 #### **Headache**
 - Migraine
 - Tension-type headache
@@ -46,16 +48,16 @@
 - Temporal arteritis (in older adults)
 - Increased [[TBI|ICP]]
 - [[Hypertensive Emergency]]
-
+---
 #### **Back pain**
 - Musculoskeletal strain
 - Herniated disc
 - Vertebral fracture
 - Spinal epidural abscess
 - Renal colic (nephrolithiasis)
-- Pancreatitis
+- [[Pancreatitis]]
 - Trauma
-
+---
 #### **Nausea / Vomiting**
 - Acute Viral / Bacterial Gastroenteritis / food poisoning
 - [[Cannabinoid Hyperemesis Syndrome]]
@@ -65,10 +67,10 @@
 - [[Vertigo]]
 - [[Small Bowel Obstruction|SBO]]
 - [[ACS]]
-
+---
 #### **Altered Mental Status**
-- Sepsis / Infection
-- DKA / HHS
+- [[Sepsis]] / Infection
+- [[DKA]] / HHS
 - Hypoglycemia
 - Electrolyte Abnormalities
 - Delirium
@@ -76,7 +78,15 @@
 - Stroke
 - Ingestion / Drug Use
 - Toxidrome
+---
 
+#### **Weakness**
+
+
+
+
+
+---
 #### **Floppy baby**
 - Tickborne disease
 - [[Sepsis]]
@@ -85,3 +95,4 @@
 - Intracranial Hemorrhage (Vit K shot?)
 - Polio (unvaccinated)
 - Ammonia (inborne errors of metabolism)
+---
