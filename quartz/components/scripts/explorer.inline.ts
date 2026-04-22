@@ -214,7 +214,8 @@ async function setupExplorer(currentSlug: FullSlug) {
 
       fragment.appendChild(node)
     }
-    explorerUl.insertBefore(fragment, explorerUl.firstChild)
+    explorerUl.innerHTML = ""
+    explorerUl.appendChild(fragment)
 
     // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
