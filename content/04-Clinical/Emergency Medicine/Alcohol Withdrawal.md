@@ -5,7 +5,7 @@ aliases:
 ---
 ### quick reference
 
-[[Toxidromes]] are generally a diagnosis of exclusion, rule out life-threatening diagnoses
+[[Toxidromes Overview]] are generally a diagnosis of exclusion, rule out life-threatening diagnoses
 - Acute head trauma (chronic ETOH use = 2-10x risk of head bleed)
 - Infection (aspiration, poor self care)
 - GI Bleed (varices)
