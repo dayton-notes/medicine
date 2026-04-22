@@ -4,11 +4,26 @@ aliases:
 ---
 ### Quick Reference
 
+Go to initial pressors:
+- Norepinephrine (titrated to MAP>65)
+- Add on vasopressin if >15mcg/min norepinephrine
+
+If cardiogenic shock suspected: 
+- Dobutamine / Epinephrine
+
+Peri-Intubation Hypotension
+- NeoStick
+
+Temporization
+- Neostick / Epi Spritzer
 
 ---
-### Overview
+### Basic Physiology Overview
 
 ![[Pasted image 20260321125110.png]]
+
+---
+### All Vasopressors
 
 | **Agent**          | **Target Receptors**       | **Key Hemodynamic Effects**          | **Shock States**                                  | **How It Augments Derangements**                                                                                                                                          |
 | ------------------ | -------------------------- | ------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,14 +41,22 @@ aliases:
 ---
 ### Push Dose Pressors
 
+[Push-dose pressors for immediate blood pressure control - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5052865/)
+
 #### **Epinephrine**
 - usual way epinephrine is used is as an infusion at 0.02–0.5 μg/kg/min for hypotension or a bolus 0.01mg/kg (max dose, 1 mg) for bradycardia or cardiac arrest
 - Pediatric Code dose epi is also 0.01 mg/kg (i.e. 10mcg/kg)
+
 **"Epi Spritzer"**
-- 10mcg/mL in 10mL syringe (100mcg/syringe or .1mg/syringe)
-- Babies under 10kg: 1mL per kg of 10mcg/mL syringe
+- Mixing instructions: Take a 10 mL syringe filled with 9 mL of normal saline. If premade saline syringes are available, eject 1 mL of saline from the 10 mL saline syringe. Into this syringe, draw up 1 mL of epinephrine from the cardiac epinephrine amp (cardiac amp contains 10 mL of epinephrine concentration 100 mcg/mL or 1:10,000). Shake well. Now you have 10 mL of epinephrine 10 mcg/mL (1:100,000).
+	- 10mcg/mL in 10mL syringe (100mcg/syringe or .1mg/syringe)
+	- Dose: 0.5–2 mL (5–20 mcg) every 1–5 minutes.
+- Pediatric Cardiac Arrest: (Babies under 10kg) 1mL per kg of 10mcg/mL syringe
 
 #### **Phenylephrine**
-- Pure a-agonist; increases BP without increasing HR
+- Pure α-agonist; increases BP without increasing HR
 - "quick on/off"; onset: <60s / duration: 10-20min
-**"Neo Stick"**
+- Mixing instructions: Take a 3 mL syringe and draw up 1 mL of phenylephrine from the vial of phenylephrine 10 mg/mL. Inject this into a 100 mL bag of normal saline. Now you have 100 mL of phenylephrine with a concentration of 100 mcg/mL. Draw up some into a syringe; each milliliter in the syringe is 100 mcg.
+
+- **"Neo Stick"**: pre-mixed phenylephrine with a concentration of 100 mcg/mL
+	- Dose: 0.5–2 mL (50–200 mcg) every 1–5 minutes.

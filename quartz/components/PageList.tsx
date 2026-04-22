@@ -67,7 +67,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <ul class="section-ul">
       {list.map((page) => {
-        const title = page.frontmatter?.title
+        const rawTitle = page.frontmatter?.title ?? ""
+      const slug = page.slug ?? ""
+
+const isFolder = isFolderPath(slug)
+
+const title = rawTitle.startsWith("📁") || rawTitle.startsWith("📄")
+  ? rawTitle
+  : (isFolder ? "📁 " : "📄 ") + rawTitle
         const tags = page.frontmatter?.tags ?? []
 
         return (
