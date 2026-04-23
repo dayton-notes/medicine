@@ -1,4 +1,6 @@
-### pearls
+## Pearls
+
+[[#Reading EKGs]]
 
 - need for rate treatment is determined by VENTRICULAR rate
 - best lead for P-waves: V1
@@ -11,39 +13,25 @@
 
 #### rhythms
 
-Brady
-- Sinus brady
-- AV Blocks
+| **Category**                            | **Potential Rhythms**                                                                                                 |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Bradycardia**                         | Sinus Brady,  AV Blocks                                                                                               |
+| **Narrow Regular Tachycardia**          | Sinus Tach / SVT / A-Flutter                                                                                          |
+| **Narrow Irregular Tachycardia**        | A-Fib / A-Flutter w/ variable conduction (F-waves) / MAT (think COPD)                                                 |
+| **Wide Regular Tachycardia**            | Treat all as V-Tach                                                                                                   |
+| **Wide Irregular Tachycardia**          | A-Fib w/ BBB; A-Fib w/ pre-excitation (e.g. WPW) — rates >200, irregularly wide/narrow, tx: Procainamide OR shock     |
+| **Monomorphic Ventricular Tachycardia** | Stable? → Amiodarone; Unstable? → Synchronized cardioversion. AIVR = ventricular rhythm 40–130 bpm (seen post-arrest) |
+| **Polymorphic Ventricular Tachycardia** | Long QT → Torsades de Pointes → IV Mg!!                                                                               |
 
-Narrow Regular Tachy
-- Sinus Tach
-- SVT
-- A flutter
+#### DDx for Various Findings
 
-Narrow Irregular Tachy
-- A-fib
-- A-flutter w/ variable conduction (F-waves)
-- MAT (think COPD)
-
-Wide Regular Tachy
-- is all VTACH!!
-
-Wide Irregular Tachy
-- a- fib w/ BBB
-- A-fib w/ pre-excitation (e.g. WPW)
-	- rates above 200!!
-	- irregularly wide/narrow
-	- procainamide OR shock
-
-Monomorphic Vtach
-- Stable?
-- Shock! Synchronized crdiovert
-- AIVR = ventricular rhythm from 40-130bpm
-
-Polymorphic Vtach
-- long QT = torsades
-	- IV Mg!!
-
+**Anterior T-wave Inversion**
+1. abnormal depolarization (make sure its not the QRS' fault - abnormal depolarization = abnormal repolariztion)
+2. Anterior reperfusion (i.e. Wellen's syndrome)
+3. Acute Right Heart Strain ([[Pulmonary Embolism|PE]], etc)
+4. Hypokalemia
+5. Takotsubo Cardiomyopathy
+## OMI / NOMI
 ### NSTE [[ACS]] Criteria
 
 

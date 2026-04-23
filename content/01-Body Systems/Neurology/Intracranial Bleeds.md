@@ -1,0 +1,6 @@
+---
+aliases:
+  - IPH
+  - Subdural
+  - Epidural
+---

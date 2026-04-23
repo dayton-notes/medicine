@@ -12,14 +12,18 @@ aliases:
 
 ![[Pasted image 20260220124420.png]]
 
-[[EKG]]
+#### [[EKG]]
 - [PE EKG Findings]([Is this ECG easy for you yet? - Dr. Smith’s ECG Blog](https://drsmithsecgblog.com/is-this-ecg-easy-for-you-yet/))
-	- Simultaneous T-Wave Inversions in V1 and III (anterior and inferior leads)
-	- Sinus Tach
-	- S1Q3T3
-- Ultrasound
+- [EMCrit Wee - ECGs in Acute Pulmonary Embolism - Death Threats in Little Squiggly Lines](https://emcrit.org/emcrit/ecg-acute-pulmonary-embolism/)
 
-Well's
+**Simultaneous T-Wave Inversions** in V1-4 **AND** III/AVF (anterior and inferior leads)
+- Pattern: little R, big S, coved ST, bit TWI
+- Sinus Tachycardia
+- S1Q3T3
+- Ultrasound (McConnell's, D sign, etc)
+
+#### Scores
+**Well's**
 - Low Risk: PERC
 - Intermediate: D-Dimer / YEARS
 - High: CTPA
@@ -29,7 +33,7 @@ Well's
 [YEARS Algorithm for Pulmonary Embolism (PE)](https://www.mdcalc.com/calc/4067/years-algorithm-for-pulmonary-embolism-pe)
 [Age-Adjusted D-dimer for Venous Thromboembolism (VTE)](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer-venous-thromboembolism-vte?utm_source=GoogleAds&utm_medium=cpc&utm_campaign=23528189012&utm_term&utm_content)
 
-
+#### History and Physical Exam
 **Symptoms:**
 
 **Especially concerning**:

@@ -43,7 +43,7 @@
 #### **Headache**
 - Migraine
 - Tension-type headache
-- Subarachnoid hemorrhage
+- [[Subarachnoid hemorrhage]]
 - [[Meningitis]]
 - Temporal arteritis (in older adults)
 - Increased [[TBI|ICP]]

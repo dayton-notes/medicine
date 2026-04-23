@@ -11,7 +11,7 @@ Better Definition: chief complaint indicating severe underlying pathology
 1. Is there a know cause of HTN? Treat as such (secondary HTN)
 	1. PRES
 	2. Aortic Dissection
-	3. SAH
+	3. [[Subarachnoid Hemorrhage|SAH]]
 	4. Non-traumatic ICH
 	5. Ischemic Stroke
 	6. SCAPE
@@ -46,16 +46,16 @@ Workup:
 | Bolus Agents           | >1-2hrs  | Labetolol, Metoprolol, Hydralazine                 |
 
 
-| Pathology         | Ideal Antihypertensive (Primary/Secondary/Adjuncts) | BP Goal        |
-| ----------------- | --------------------------------------------------- | -------------- |
-| Aortic Dissection | Esmolol / diltiazem / nicardipine/clevidipine       | SBP <100-120   |
-| PRES              | Clevidipine / Nicardipine                           | ~160/100       |
-| SAH               | Nicardipine / Enalapril / oral nimodipine           | SBP <160       |
-| Non-traumatic ICH | nicardipine / esmolol                               | SBP ~140       |
-| SCAPE             | nitroglycerin                                       |                |
-| Ischemic Stroke   | clevidipine / nicardipine                           | <185/110 (TPA) |
-| ACS               | nitroglycerin / nicardipine / clevidipine           |                |
-| Pregnancy-related | hydralazine / labetolol / ALWAYS magnesium          | <140/90        |
+| Pathology                   | Ideal Antihypertensive (Primary/Secondary/Adjuncts) | BP Goal        |
+| --------------------------- | --------------------------------------------------- | -------------- |
+| Aortic Dissection           | Esmolol / diltiazem / nicardipine/clevidipine       | SBP <100-120   |
+| PRES                        | Clevidipine / Nicardipine                           | ~160/100       |
+| [[Subarachnoid Hemorrhage]] | Nicardipine / Enalapril / oral nimodipine           | SBP <160       |
+| Non-traumatic ICH           | nicardipine / esmolol                               | SBP ~140       |
+| SCAPE                       | nitroglycerin                                       |                |
+| Ischemic Stroke             | clevidipine / nicardipine                           | <185/110 (TPA) |
+| ACS                         | nitroglycerin / nicardipine / clevidipine           |                |
+| Pregnancy-related           | hydralazine / labetolol / ALWAYS magnesium          | <140/90        |
 
 **Simplified Summary**
 - When in doubt, choose CCB (Clevidipine / Nicardipine)
