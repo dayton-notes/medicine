@@ -1,5 +1,6 @@
 ---
 aliases:
+  - sepsis
 ---
 ### quick reference
 

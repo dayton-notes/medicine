@@ -2,6 +2,7 @@
 aliases:
   - Panic Disorder
   - Panic Attack
+  - anxiety
 ---
 ---
 **GAD-7:**

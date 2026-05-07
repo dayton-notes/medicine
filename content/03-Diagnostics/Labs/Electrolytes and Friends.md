@@ -3,8 +3,8 @@ aliases:
   - Labs
   - labs
 ---
-### Potassium
-#### Hypokalemia:
+## Potassium
+### Hypokalemia:
 Much more well tolerated than hyperkalemia
 
 - Main causes: GI losses, Renal Losses, Intracellular shifts, Low K Intake
@@ -23,14 +23,14 @@ Potassium Repletion
 	- Central line: 20meq / hr
 - IV potassium burns veins
 
-#### Hyperkalemia:
+### Hyperkalemia:
 - Main causes: hemolysis of lab sample, acidosis, medications, decreased renal excretion, excessive intake
 	- Hemolysis: always ask "does this make sense"
 	- Acidosis: pH<7.35 causes shift extracellular
 	- Meds/Decreased renal excretion: ACE-I, MRA, Beta Blockers, AKI/CKD
 	- Excessive intake: ate too much! Rare
 
-### Total Bilirubin / AST / ALT / ALP / GGT :
+## Total Bilirubin / AST / ALT / ALP / GGT :
 Important functional measures of hepatobiliary system 
 
 Patterns:
@@ -44,7 +44,7 @@ Hepatocellular:
 - viral/autoimmune hepatitis, hemochromatosis, Wilson's disease, alpha 1 antitrypsin deficiency
 - AST predominant: alcohol / cirrhosis
 
-#### Bilirubin
+### Bilirubin
 Elevated bilirubin should be fractionated to indirect (unconjugated) and direct (conjugated)
 Abnormal concentrations may indicate cholestasis or hepatocellular damage in the presence of other abnormal liver tests
 
@@ -54,7 +54,7 @@ Abnormal concentrations may indicate cholestasis or hepatocellular damage in the
 Vocab:
 - kernicterus (bilirubin encephalopathy) - brain damage causes by newborn bilirubin buildup
 	- unconjugated bili > 25
-#### AST / ALT
+### AST / ALT
 - markers of hepatocellular injury
 - ALT more specific to liver
 - Generally, hepatocellular injury results in an AST:ALT ratio >1. However, alcoholic liver disease usually presents with a ratio of ≥2. This ratio may also be elevated in cases of NAFLD, cirrhosis, or Wilson disease, but the elevation is usually not >2
@@ -72,7 +72,7 @@ The American College of Gastroenterology defines the following categories for AS
 **Moderate elevations** (5–15× ULN) may be seen in acute viral hepatitis, drug-induced liver injury, or autoimmune hepatitis. 
 
 **Severe and massive elevations** (>15× ULN, especially >10,000 IU/L) are typically associated with ischemic hepatitis (shock liver), severe drug-induced/toxic hepatitis (e.g., acetaminophen toxicity), or acute viral hepatitis. Non-hepatic causes such as rhabdomyolysis can also result in very high AST levels.
-#### Alk Phos / GGT
+### Alk Phos / GGT
 Elevation of ALP is suggestive of cholestasis
 Serum 1/2 life: 7 days
 - can take 1 week to decrease following resolution of biliary obstruction
@@ -97,7 +97,7 @@ GGT:
 7. Leukemoid reaction
 
 
-#### Synthetic Function
+### Synthetic Function
 
 Albumin
 - Liver disease decreases albumin synthesis and decreases serum albumin concentration
@@ -105,7 +105,7 @@ Albumin
 
 PT:
 - Elevated PT that is unresponsive to vitamin K supplementation is suggestive of poor liver function
-### Calcium:
+## Calcium:
 ##### general
 total calcium is a screening test only -  ionized calcium is what matters physiologically
 - **8.5-10.5 mg/dL** (or 2.12-2.62 mM) is the normal range.
@@ -128,7 +128,7 @@ ST segment duration is inversely related to the ionized calcium level
 - This may be noticed as QT prolongation with a normal-sized T-wave.
     - This may be seen on the patient's monitor or on a rhythm strip (without a full [[EKG]]).
 - Hypocalcemia may cause torsade de pointes.
-#### Hypocalcemia:
+### Hypocalcemia:
 Causes: 
 - hypoparathyroidism
 - impaired vitamin d synthesis / action
@@ -152,7 +152,7 @@ Causes:
 Chvostok's Sign: ![[Pasted image 20250725100507.png]]
 Trousseau Sign:  inflate a blood pressure cuff to 20 mm Hg above the systolic blood pressure for 3 minutes to elicit carpal spasms because of the increased excitability caused by local ulnar and median nerve ischemia.
 
-### Albumin:
+## Albumin:
 Important synthetic measure of liver - is the liver producing the things it's supposed to?
 (Note- clotting factors/fibrinogen are often preserved or even increased in low albumin states)
 
@@ -164,8 +164,8 @@ Causes of low albumin:
 
 
 
-### Sodium:
-#### Hyponatremia
+## Sodium:
+### Hyponatremia
 - MC is hypotonic (90%)
 - MC Cause inpatient: fluids (iatrogenic hypervolemic hyponatremia)
 	- Urine Studies:
@@ -189,11 +189,11 @@ Causes of low albumin:
 		- Euvolemic: Fluid Restriction
 		- Hypervolemic: Diuresis
 	- ![[Pasted image 20250731054732.png]]
-#### Hypernatremia
+### Hypernatremia
 - Free Water Deficit
 - AI/DI
 
-### Hemoglobin:
+## Hemoglobin:
 - RBC life = 120 days
 - Rapid changes = bleeding or hemoconcentration/dilution
 	- Do you suspect bleeding? 
@@ -205,20 +205,20 @@ Causes of low albumin:
 	- Average adult: 30mL/hr or 720mL/day
 	- 1L/day = 42mL/hr = 84kg patient (185lbs)
 
-### Creatinine:
+## Creatinine:
 - complete anuria will raise Cr by 1.0 mg/dl per day
 - not elevated until ~%50 reduction in renal function
 - KDIGO
 	- ![[Pasted image 20250703164345.png]]
 
 
-### BUN
+## BUN
 - End product of protein metabolism
 - 85% eliminated by kidneys, 15% by GI tract
 - Increases if renal elimination impaired (AKI, CKD), GI bleeding, high protein diet, severe liver disease
 - Increases earlier in chronic renal dysfunction than SCr
 
-### Ammonia
+## Ammonia
 
 Hepatic Encephalopathy
 - not indiciative of degree of encephalopathy
