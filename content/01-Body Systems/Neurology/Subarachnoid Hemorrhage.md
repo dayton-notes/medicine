@@ -60,8 +60,8 @@ Think about SAH in patients presenting with **sudden** **headache PLUS:**
 2. follow 6 hour rule: CTA vs LP
 
 **6 Hour Rule**
-- If the patient presents <6 hours after headache onset and certain criteria are met, non-contrast head CT is [[#Imaging|diagnostic]]
-- If the patient presents >6 hours from headache onset, non-contrast head CT is negative, and patient has a high pretest probability, then [[#Imaging|LP or CT angiography (CTA) is recommended.]]
+- If the patient presents <6 hours after headache onset and certain criteria are met, non-contrast head CT is [[Subarachnoid Hemorrhage#Risk Based Eval Imaging/LP|diagnostic]]
+- If the patient presents >6 hours from headache onset, non-contrast head CT is negative, and patient has a high pretest probability, then [[Subarachnoid Hemorrhage#Risk Based Eval Imaging/LP|LP or CT angiography (CTA) is recommended.]]
 #### Lumbar Puncture
 
 ![[Pasted image 20260423131204.png]]
@@ -75,7 +75,7 @@ Think about SAH in patients presenting with **sudden** **headache PLUS:**
 
 | Class                    | Meds                                                        |
 | ------------------------ | ----------------------------------------------------------- |
-| **Hyperosmolar Therapy** | - hypertonic saline (3ml/kg)                                |
+| **Hyperosmolar Therapy** | - [[hypertonic saline]] (3ml/kg)                            |
 | **Antiemetics:**         | - ondansetron<br>- prochlorperazine                         |
 | **Analgesics:**          | - fentanyl<br>- acetaminophen<br>- gabapentin<br>- steroids |
 | **Antihypertensives:**   | - Nicardipine IV<br>- Nimodipine PO                         |
@@ -129,7 +129,7 @@ Admit!
 
 ![[Pasted image 20260423114219.png]]
 
-#### Risk Based: Imaging/LP
+#### Risk Based Eval: Imaging/LP
 
 ![[Pasted image 20260423135005.png]]
 ![[Pasted image 20260423135048.png]]

@@ -2,7 +2,7 @@
 aliases:
 ---
 ---
-### quick reference
+
 
 - Suspect subclavian steal syndrome in patients who headaches, dizziness, loss of consciousness (syncope), visual disturbances, loss of coordination, or facial numbness or pain,  **particularly during exercise of the arms.**
 ![[Pasted image 20250730211135.png]]
@@ -22,5 +22,6 @@ Consider magnetic resonance angiography (MRA) and computed tomography angiograph
 ---
 ### treatment
 
+Stenting
 
 ---
