@@ -7,14 +7,14 @@ tags:
 
 ### Cushing Syndrome
 **Risk Factors:** Adrenal tumor (primary), pituitary ACTH tumor/Cushing disease, ectopic ACTH, exogenous steroids
-**Symptoms:** Central obesity, moon facies, buffalo hump, purple striae, dorsal fat pad, proximal muscle weakness, [[hypertension]] 
+**Symptoms:** Central obesity, moon facies, buffalo hump, purple striae, dorsal fat pad, proximal muscle weakness, [[Hypertension]] 
 **Diagnosis:** ≥2 positive screening tests needed: 24-hr urine cortisol, late-night salivary cortisol, or low-dose dex suppression test; then ACTH level + high-dose dex suppression test to differentiate source 
 **Treatment:** Treat underlying cause—surgery for tumor, discontinue steroids if exogenous
 
 ### Cushing Disease (Pituitary ACTH-secreting adenoma)
 **Symptoms:** Same as Cushing syndrome
 **Diagnosis:** High ACTH + suppression on high-dose dex test (suppresses ACTH unlike ectopic source)
-**Treatment:** Transsphenoidal surgery (first line); radiation/adrenolytic agents if failed
+**Treatmelectent:** Transsphenoidal surgery (first line); radiation/adrenolytic agents if failed
 
 ### Pheochromocytoma
 **Risk Factors:** MEN 2A/2B, neurofibromatosis, family history 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Labs
+  - labs
 ---
 ### Potassium
 #### Hypokalemia:

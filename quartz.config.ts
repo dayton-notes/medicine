@@ -70,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.HardLineBreaks(),          // ← adds Obsidian-like line breaks, testing
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }), 
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
@@ -82,8 +82,9 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
+        enableSiteMap: false,
+        enableRSS: false,
+        includeEmptyFiles: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),

@@ -2,6 +2,7 @@
 aliases:
   - HTN
   - high blood pressure
+  - hypertension
 ---
 ---
 ### Overview
