@@ -11,3 +11,4 @@ For subsequent testing after treatment, repeated non‑treponemal titers are use
 | Initial Testing                | Non‑treponemal | Use RPR or VDRL as a screening test; if positive, perform a confirmatory treponemal assay.        |
 | Confirmation                   | Treponemal     | Tests like FTA‑ABS, TP‑PA, or other treponemal assays confirm the diagnosis.                      |
 | Subsequent (Follow‑up) Testing | Non‑treponemal | Repeat titers are tracked post‑treatment; a 4‑fold decrease in titer indicates treatment success. |
+?

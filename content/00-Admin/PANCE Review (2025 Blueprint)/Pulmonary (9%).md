@@ -39,7 +39,7 @@ Most common cause: group 2
 Effusion is **exudative** if one of the following are met:
 - Pleural fluid-to-serum protein ratio > 0.5
 - Pleural fluid-to-serum LDH ratio > 0.6
-- Pleural fluid LDH > 0.67 (ie, two-thirds) the upper limits of the laboratory's normal serum LDH
+- Pleural fluid LDH > 0.67 (i.e. two-thirds) the upper limits of the laboratory's normal serum LDH
 
 Otherwise: **Transudative**
 
@@ -80,11 +80,11 @@ Most common features:
 
 **Pneumoconiosis**
 
-|Disease|Exposure|Key finding|Big complication|
-|---|---|---|---|
-|**Silicosis**|Sand, mining, glass|**Upper lobe fibrosis + eggshell hilar nodes**|↑ **TB risk**|
-|**Coal worker pneumoconiosis**|Coal mining|**Upper lobe “black lung” nodules**|Progressive massive fibrosis|
-|**Asbestosis**|Shipyards, insulation|**Lower lobe fibrosis + pleural plaques**|**Mesothelioma / lung cancer**|
+| Disease                        | Exposure              | Key finding                                    | Big complication               |
+| ------------------------------ | --------------------- | ---------------------------------------------- | ------------------------------ |
+| **Silicosis**                  | Sand, mining, glass   | **Upper lobe fibrosis + eggshell hilar nodes** | ↑ **TB risk**                  |
+| **Coal worker pneumoconiosis** | Coal mining           | **Upper lobe “black lung” nodules**            | Progressive massive fibrosis   |
+| **Asbestosis**                 | Shipyards, insulation | **Lower lobe fibrosis + pleural plaques**      | **Mesothelioma / lung cancer** |
 
 
 ### ARDS 

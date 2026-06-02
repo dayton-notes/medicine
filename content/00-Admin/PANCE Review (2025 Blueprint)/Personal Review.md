@@ -1,4 +1,4 @@
-- TB infection classifications, treatments, testing populations
+w- TB infection classifications, treatments, testing populations
 - HIV infections, testing, CD4 - disease associations
 - Pediatric Vaccine Schedule
 - Pharm:
@@ -28,3 +28,21 @@ Factoids:
 - MS = most prevalent in temperate latitiudes
 - 
 
+
+"one"kebach - mobitz one / wenchebach
+
+**Anti-arrythmics**
+Class 1a: DQP
+Class 1b: LMP
+Class 1c: FP
+
+Class 2: BB (2 b's)
+
+Class 3: ADDSI
+
+Class 4: NDHP (4 letters)
+
+HF: Cannot use the following
+- diltiazem
+
+CAN use: AMIO, AMIO, AMIO, mexilitine, dofetilde, 
