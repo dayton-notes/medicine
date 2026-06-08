@@ -1,4 +1,8 @@
-
+## Zones of Injury
+### Flexor
+![[Pasted image 20260607205239.png]]
+### Extensor
+![[Pasted image 20260607204025.png]]
 ## Basic Screening Exam:
 
 This  exam can be used in the case of a fracture/dislocation at or proximal to the wrist, or in a general trauma to ensure that there has not been a nerve injury – from the cervical spine, through the brachial plexus, and into the extremity.
@@ -157,7 +161,7 @@ Innervation: **median** and **ulnar** nerves
 | **Central slip injury**<br>(boutonniere deformity)                                                                   | Rupture of central extensor band → lateral bands slide volar | Laceration over dorsal middle phalanx           | **Elson's test:** Passively flex PIP to 90°, ask patient to extend against resistance on middle phalanx. If DIP becomes _taut_ (not floppy) → central slip injured. | ![[Pasted image 20260402085457.png]] |
 
 ---
-## Expert Pearls
+## Pearls
 
 - **Systematic approach is essential** — pain, intoxication, fear, and bleeding all degrade the exam
 - A quick **screening sequence**: fist → open hand → wrist flexion/extension → finger extension → thumb IP flexion/extension → FDP/FDS each finger → OK sign → finger spread → gross sensation each fingertip and dorsum
@@ -166,7 +170,7 @@ Innervation: **median** and **ulnar** nerves
 - **Edema and pain** can both cause sensory changes independent of nerve injury, especially with tourniquet use
 - **Always document sensory exam before administering local anesthesia**
 ---
-### References
+## References
 
 - \[Peer-Reviewed, Web Publication\] Whipple T, Gappmeier V (2018, April 16). Demystifying the Hand Exam. \[NUEM Blog. Expert Commentary by Giladi A \]. Retrieved from http://www.nuemblog.com/blog/hand-exam
 - Ghane, MR et al. How trustworthy are clinical examinations and plain radiographs for diagnosis of scaphoid fractures. Trauma Mon Nov 2016. 21(5): e23345.
@@ -175,5 +179,10 @@ Innervation: **median** and **ulnar** nerves
 - Lin, M. Quick Tip: Elston’s Test for the Finger. Jul 29 2013. ALiEM.
 - Bookman, A. A., von Schroeder, H. P., & Pham, A. G. (2010). The Wrist and Hand. In Fam’s Muskuloskeletal Exam and Joint Injection Techniques (pp. 29–43). Mosby.
 - Seiler, JG. (2002). Essentials of Hand Surgery (pp 23-48). Lippincott Williams & Wilkins.  
+
+
+- [Flexor Tendon Injuries - Hand - Orthobullets](https://www.orthobullets.com/hand/6031/flexor-tendon-injuries)
+- [Extensor Tendon Injuries - Hand - Orthobullets](https://www.orthobullets.com/hand/6028/extensor-tendon-injuries)
+- 
 
 ---
